@@ -248,7 +248,7 @@
       "decision": "confirmed",
       "reason": "The official policy specifies a ten-year term and a minimum 20% property-equity requirement; the summary now makes those material eligibility terms visible.",
       "officialSourceURL": "https://www.national.org.nz/policies/solar",
-      "verifiedAt": "2026-09-17",
+      "verifiedAt": "2026-09-16",
       "updates": {
         "summary": "Offer ten-year, low-interest, property-secured loans repaid through rates to ratepayers with at least 20% equity, for solar, batteries, insulation, heat pumps and other home electrification."
       }
@@ -764,7 +764,7 @@
       "decision": "confirmed",
       "reason": "The existing summary combined affirmative-consent reform with a separate sentencing commitment. This review narrows the row to the consent policy; sentencing is represented by a new stable policy ID.",
       "officialSourceURL": "https://www.national.org.nz/policies/consent-laws",
-      "verifiedAt": "2026-09-17",
+      "verifiedAt": "2026-09-16",
       "updates": {
         "summary": "Define consent as actively communicated by words or actions, while retaining the prosecution's obligation to prove beyond reasonable doubt that consent was not given and the defendant lacked reasonable grounds to believe it was."
       }
@@ -1038,7 +1038,7 @@
       "decision": "confirmed",
       "reason": "The official small-business plan provides the 15-day payment period, $25,000 invoice limit, disclosure duty, reporting route and proportionate penalties now reflected in the summary.",
       "officialSourceURL": "https://www.labour.org.nz/small-business-action-plan",
-      "verifiedAt": "2026-09-17",
+      "verifiedAt": "2026-09-16",
       "updates": {
         "summary": "Require large businesses to pay small suppliers within 15 days for invoices of $25,000 or less and publish payment times, with reporting and proportionate penalties for late payment."
       }
@@ -4425,7 +4425,7 @@
       "decision": "confirmed",
       "reason": "Labour's official election announcement explicitly commits to a Government Policy Statement linking immigration goals to workforce, demographic, housing and infrastructure capacity.",
       "officialSourceURL": "https://www.labour.org.nz/news/release-labour-to-ensure-an-immigration-system-that-works-for-new-zealand/",
-      "verifiedAt": "2026-09-17"
+      "verifiedAt": "2026-09-16"
     },
     {
       "input": {
@@ -4444,7 +4444,7 @@
       "decision": "confirmed",
       "reason": "Labour's official election announcement specifies the four-year residence period and the accompanying orientation and civic-education programme.",
       "officialSourceURL": "https://www.labour.org.nz/news/release-labour-to-ensure-an-immigration-system-that-works-for-new-zealand/",
-      "verifiedAt": "2026-09-17"
+      "verifiedAt": "2026-09-16"
     },
     {
       "input": {
@@ -4463,7 +4463,7 @@
       "decision": "confirmed",
       "reason": "Labour's official election announcement explicitly states the three-month employer-mobility rule and associated exploitation protections.",
       "officialSourceURL": "https://www.labour.org.nz/news/release-labour-to-ensure-an-immigration-system-that-works-for-new-zealand/",
-      "verifiedAt": "2026-09-17"
+      "verifiedAt": "2026-09-16"
     },
     {
       "input": {
@@ -4482,7 +4482,7 @@
       "decision": "confirmed",
       "reason": "Labour's official election announcement expressly protects humanitarian appeals against deportation.",
       "officialSourceURL": "https://www.labour.org.nz/news/release-labour-to-ensure-an-immigration-system-that-works-for-new-zealand/",
-      "verifiedAt": "2026-09-17"
+      "verifiedAt": "2026-09-16"
     },
     {
       "input": {
@@ -4501,7 +4501,7 @@
       "decision": "confirmed",
       "reason": "Labour's official election announcement expressly commits to a citizenship pathway for children born in New Zealand; the summary avoids inventing eligibility details not yet specified.",
       "officialSourceURL": "https://www.labour.org.nz/news/release-labour-to-ensure-an-immigration-system-that-works-for-new-zealand/",
-      "verifiedAt": "2026-09-17"
+      "verifiedAt": "2026-09-16"
     },
     {
       "input": {
@@ -4520,7 +4520,7 @@
       "decision": "confirmed",
       "reason": "The Green Party's official announcement identifies the prohibited automated welfare-payment decisions and commits to access to a human decision-maker.",
       "officialSourceURL": "https://www.greens.org.nz/green_party_pledge_to_remove_ai_from_welfare_payment_decisions",
-      "verifiedAt": "2026-09-17"
+      "verifiedAt": "2026-09-16"
     },
     {
       "input": {
@@ -4539,7 +4539,7 @@
       "decision": "confirmed",
       "reason": "New Zealand First's official policy page states compulsory workforce enrolment and contributions rising to 8% initially and eventually 10%.",
       "officialSourceURL": "https://www.nzfirst.nz/establishing_a_kiwisaver_generation",
-      "verifiedAt": "2026-09-17"
+      "verifiedAt": "2026-09-16"
     },
     {
       "input": {
@@ -4558,7 +4558,7 @@
       "decision": "confirmed",
       "reason": "New Zealand First's official policy page states compulsory enrolment at birth and an immediate $1,000 Crown contribution for citizen children.",
       "officialSourceURL": "https://www.nzfirst.nz/establishing_a_kiwisaver_generation",
-      "verifiedAt": "2026-09-17"
+      "verifiedAt": "2026-09-16"
     },
     {
       "input": {
@@ -4568,7 +4568,7 @@
         "title": "Permanently ban seabed mining",
         "summary": "Support the proposed Seabed Mining Prohibition Act 2026 to establish a permanent legislative ban on seabed mining in New Zealand waters.",
         "sourceURL": "https://www.maoriparty.org.nz/permanently_ban_seabed_mining",
-        "dateAnnouncedOrVerified": "2026-09-17",
+        "dateAnnouncedOrVerified": "2026-09-16",
         "policyStatus": "confirmed2026",
         "lifecycleStatus": "active",
         "supersedesPolicyID": null,
@@ -4577,7 +4577,7 @@
       "decision": "confirmed",
       "reason": "The official Te Pāti Māori campaign page identifies the proposed Seabed Mining Prohibition Act 2026; the summary preserves its member's-bill status rather than describing an enacted ban.",
       "officialSourceURL": "https://www.maoriparty.org.nz/permanently_ban_seabed_mining",
-      "verifiedAt": "2026-09-17"
+      "verifiedAt": "2026-09-16"
     },
     {
       "input": {
@@ -4596,7 +4596,7 @@
       "decision": "confirmed",
       "reason": "The Green Party's official election-energy announcement explicitly establishes Kiwipower and describes its generation and market roles.",
       "officialSourceURL": "https://www.greens.org.nz/green_party_launches_plan_to_cut_power_bills_and_take_power_back_from_the_big_energy_companies",
-      "verifiedAt": "2026-09-17"
+      "verifiedAt": "2026-09-16"
     },
     {
       "input": {
@@ -4615,7 +4615,7 @@
       "decision": "confirmed",
       "reason": "The Green Party's official election-energy announcement explicitly offers zero-interest loans for solar and batteries.",
       "officialSourceURL": "https://www.greens.org.nz/green_party_launches_plan_to_cut_power_bills_and_take_power_back_from_the_big_energy_companies",
-      "verifiedAt": "2026-09-17"
+      "verifiedAt": "2026-09-16"
     },
     {
       "input": {
@@ -4634,7 +4634,7 @@
       "decision": "confirmed",
       "reason": "The Green Party's official election-energy announcement explicitly states both a renters' right to solar and legalisation of plug-in solar.",
       "officialSourceURL": "https://www.greens.org.nz/green_party_launches_plan_to_cut_power_bills_and_take_power_back_from_the_big_energy_companies",
-      "verifiedAt": "2026-09-17"
+      "verifiedAt": "2026-09-16"
     },
     {
       "input": {
@@ -4653,7 +4653,7 @@
       "decision": "confirmed",
       "reason": "The Green Party's official election-energy announcement explicitly expands Warmer Kiwi Homes to more upgrades, including gas transitions, for low-income households.",
       "officialSourceURL": "https://www.greens.org.nz/green_party_launches_plan_to_cut_power_bills_and_take_power_back_from_the_big_energy_companies",
-      "verifiedAt": "2026-09-17"
+      "verifiedAt": "2026-09-16"
     },
     {
       "input": {
@@ -4672,7 +4672,7 @@
       "decision": "confirmed",
       "reason": "The Green Party's official election-energy announcement specifies the $200 million community-renewable investment and representative community sites.",
       "officialSourceURL": "https://www.greens.org.nz/green_party_launches_plan_to_cut_power_bills_and_take_power_back_from_the_big_energy_companies",
-      "verifiedAt": "2026-09-17"
+      "verifiedAt": "2026-09-16"
     },
     {
       "input": {
@@ -4691,7 +4691,7 @@
       "decision": "confirmed",
       "reason": "The Green Party's official election-energy announcement specifies both the public-housing solar target and the $80 million Māori-housing investment.",
       "officialSourceURL": "https://www.greens.org.nz/green_party_launches_plan_to_cut_power_bills_and_take_power_back_from_the_big_energy_companies",
-      "verifiedAt": "2026-09-17"
+      "verifiedAt": "2026-09-16"
     },
     {
       "input": {
@@ -4701,7 +4701,7 @@
         "title": "Ban good-character sentencing discounts for sexual offending",
         "summary": "Prohibit judges from treating an offender's good character or public reputation as a mitigating factor when sentencing sexual offences.",
         "sourceURL": "https://www.national.org.nz/policies/tougher-sentences",
-        "dateAnnouncedOrVerified": "2026-09-17",
+        "dateAnnouncedOrVerified": "2026-09-16",
         "policyStatus": "confirmed2026",
         "lifecycleStatus": "active",
         "supersedesPolicyID": null,
@@ -4710,7 +4710,7 @@
       "decision": "confirmed",
       "reason": "National's official sentencing policy separately prohibits good-character and public-reputation mitigation for sexual offending; it is no longer bundled into the consent-law row.",
       "officialSourceURL": "https://www.national.org.nz/policies/tougher-sentences",
-      "verifiedAt": "2026-09-17"
+      "verifiedAt": "2026-09-16"
     }
   ]
 }
