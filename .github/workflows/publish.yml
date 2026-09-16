@@ -29,10 +29,10 @@ jobs:
         run: python3 scripts/build_site.py
       - name: Sign manifest
         env:
-          POLICY_FEED_PRIVATE_KEY: ${{ secrets.POLICY_FEED_PRIVATE_KEY }}
+          POLICY_FEED_PRIVATE_KEY_B64: ${{ secrets.POLICY_FEED_PRIVATE_KEY_B64 }}
         run: |
-          test -n "$POLICY_FEED_PRIVATE_KEY"
-          printf '%s\n' "$POLICY_FEED_PRIVATE_KEY" > "$RUNNER_TEMP/policy-feed-private.pem"
+          test -n "$POLICY_FEED_PRIVATE_KEY_B64"
+          printf '%s' "$POLICY_FEED_PRIVATE_KEY_B64" | base64 --decode > "$RUNNER_TEMP/policy-feed-private.pem"
           openssl pkeyutl -sign -rawin \
             -inkey "$RUNNER_TEMP/policy-feed-private.pem" \
             -in site/manifest.json \
