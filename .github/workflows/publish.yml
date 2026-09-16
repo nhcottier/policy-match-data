@@ -23,6 +23,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
+        with:
+          enablement: true
       - name: Validate dataset and build feed
         run: python3 scripts/build_site.py
       - name: Sign manifest
