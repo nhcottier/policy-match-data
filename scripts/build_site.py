@@ -10,6 +10,7 @@ import shutil
 from datetime import datetime
 from pathlib import Path
 from urllib.parse import urlparse
+from policy_review import apply_reviews
 
 
 REQUIRED_POLICY_FIELDS = {
@@ -76,13 +77,24 @@ def validate_dataset(data: bytes) -> dict[str, object]:
         if policy["lifecycleStatus"] not in LIFECYCLE_STATUSES:
             raise ValueError(f"{policy_id}: invalid lifecycleStatus")
 
+    retired = payload.get("retiredPolicyIDs", [])
+    if (not isinstance(retired, list) or any(not isinstance(item, str) or not item for item in retired)
+            or len(retired) != len(set(retired)) or ids.intersection(retired)):
+        raise ValueError("retiredPolicyIDs must contain unique non-current IDs")
     for policy in policies:
         for field in ("supersedesPolicyID", "supersededByPolicyID"):
             linked_id = policy[field]
-            if linked_id is not None and linked_id not in ids:
+            allowed_ids = ids | set(retired) if field == "supersedesPolicyID" else ids
+            if linked_id is not None and linked_id not in allowed_ids:
                 raise ValueError(f"{policy['id']}: {field} refers to unknown ID {linked_id}")
 
     return payload
+
+
+def validate_reviews(dataset, reviews):
+    approved, retired = apply_reviews([review["input"] for review in reviews["reviews"]], reviews)
+    if dataset["policies"] != approved or dataset.get("retiredPolicyIDs", []) != retired:
+        raise ValueError("Dataset must exactly match the officially confirmed editorial reviews")
 
 
 def main() -> None:
@@ -96,6 +108,8 @@ def main() -> None:
     base_url = str(release["baseURL"]).rstrip("/")
     dataset_data = dataset_path.read_bytes()
     dataset = validate_dataset(dataset_data)
+    reviews = json.loads(Path(release["reviews"]).read_text(encoding="utf-8"))
+    validate_reviews(dataset, reviews)
 
     output_dataset = args.output / "datasets" / dataset_path.name
     output_dataset.parent.mkdir(parents=True, exist_ok=True)

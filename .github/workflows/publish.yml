@@ -26,7 +26,9 @@ jobs:
         with:
           enablement: true
       - name: Validate dataset and build feed
-        run: python3 scripts/build_site.py
+        run: |
+          python3 -m unittest discover -s scripts -p 'test_*.py'
+          python3 scripts/build_site.py
       - name: Sign manifest
         env:
           POLICY_FEED_PRIVATE_KEY_B64: ${{ secrets.POLICY_FEED_PRIVATE_KEY_B64 }}

@@ -14,10 +14,11 @@ The app pins the corresponding Ed25519 public key, verifies the manifest signatu
 
 ## Publishing an update
 
-1. Generate a reviewed dataset from the authoritative workbook.
-2. Add it under `datasets/` without replacing an earlier release.
-3. Update `release.json` to point to the new file.
-4. Open and review a pull request, then merge it to `main`.
+1. Use news for discovery, but confirm each commitment against a specific official party source before publication. Record the exact input, decision, evidence URL, verification date and reason in `editorial-reviews.json`; hold unconfirmed records.
+2. Generate the dataset from those reviews. The publishing gate requires an exact match with the approved records and rejects unreviewed or altered content. It does not replace human fact-checking.
+3. Add it under `datasets/` without replacing an earlier release.
+4. Update `release.json` to point to the new file and review document.
+5. Open and review a pull request, then merge it to `main`.
 
 The GitHub Pages workflow validates the dataset, builds the public feed and signs the manifest using a repository secret. The private signing key is never committed.
 
@@ -25,7 +26,7 @@ The GitHub Pages workflow validates the dataset, builds the public feed and sign
 
 - Editorial corrections retain the existing policy ID.
 - A materially changed commitment receives a new ID.
-- Withdrawn and superseded policies remain in the dataset with their lifecycle status so existing responses are not silently reassigned.
+- Historical policy IDs remain in `retiredPolicyIDs` when their statements are withheld or replaced. Existing responses remain on the device and are never silently reassigned to replacement statements.
 - Every policy requires a specific HTTPS source, verification date and status.
 
 Policy Match is independent and is not affiliated with the Electoral Commission or any political party.
