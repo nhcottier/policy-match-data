@@ -2242,9 +2242,12 @@
         "supersededByPolicyID": null
       },
       "decision": "confirmed",
-      "reason": "Core wording cross-referenced against official party material in the 2026-09-16 audit; package detail is not exhaustive.",
-      "officialSourceURL": "https://www.act.org.nz/scrap-net-zero-cut-the-carbon-tax",
-      "verifiedAt": "2026-09-16"
+      "reason": "The September rural package confirms repeal of the Zero Carbon Act as part of the existing net-zero policy; the stable ID is retained because the core commitment is unchanged.",
+      "officialSourceURL": "https://www.act.org.nz/make-farming-fun-again",
+      "verifiedAt": "2026-09-20",
+      "updates": {
+        "summary": "Repeal the Zero Carbon Act, remove the domestic net-zero target and reduce costs imposed through the Emissions Trading Scheme."
+      }
     },
     {
       "input": {
@@ -2497,9 +2500,12 @@
         "supersededByPolicyID": null
       },
       "decision": "confirmed",
-      "reason": "Core wording cross-referenced against official party material in the 2026-09-16 audit; package detail is not exhaustive.",
+      "reason": "The existing row represents this policy but omits its principal operational commitments; the official rural-crime policy provides the detailed measures.",
       "officialSourceURL": "https://www.act.org.nz/rural-crime",
-      "verifiedAt": "2026-09-16"
+      "verifiedAt": "2026-09-20",
+      "updates": {
+        "summary": "Fund 100,000 additional rural Police patrol hours each year, establish a dedicated rural crime unit, expand rural Text 111 access, strengthen inter-agency coordination, and increase penalties for livestock theft and poaching."
+      }
     },
     {
       "input": {
@@ -2539,9 +2545,12 @@
         "supersededByPolicyID": null
       },
       "decision": "confirmed",
-      "reason": "Core wording cross-referenced against official party material in the 2026-09-16 audit; package detail is not exhaustive.",
-      "officialSourceURL": "https://www.act.org.nz/let-pharmacies-do-more",
-      "verifiedAt": "2026-09-16"
+      "reason": "The Pharmacy First announcement gives the specific clinical scope of the existing pharmacy policy; the stable ID is retained.",
+      "officialSourceURL": "https://www.act.org.nz/news/your-pharmacist-should-be-your-first-stop",
+      "verifiedAt": "2026-09-20",
+      "updates": {
+        "summary": "Allow pharmacists to treat more everyday conditions and manage more stable long-term conditions without a GP appointment."
+      }
     },
     {
       "input": {
@@ -2752,9 +2761,12 @@
         "supersededByPolicyID": null
       },
       "decision": "confirmed",
-      "reason": "Core wording cross-referenced against official party material in the 2026-09-16 audit; package detail is not exhaustive.",
-      "officialSourceURL": "https://www.act.org.nz/paris",
-      "verifiedAt": "2026-09-16"
+      "reason": "The September rural package states the existing Paris policy's material reconsideration contingency; this clarifies rather than replaces the commitment.",
+      "officialSourceURL": "https://www.act.org.nz/make-farming-fun-again",
+      "verifiedAt": "2026-09-20",
+      "updates": {
+        "summary": "Seek fairer international climate commitments and reconsider New Zealand's participation in the Paris Agreement if overseas competitors avoid costs imposed on New Zealand farmers."
+      }
     },
     {
       "input": {
@@ -4711,6 +4723,766 @@
       "reason": "National's official sentencing policy separately prohibits good-character and public-reputation mitigation for sexual offending; it is no longer bundled into the consent-law row.",
       "officialSourceURL": "https://www.national.org.nz/policies/tougher-sentences",
       "verifiedAt": "2026-09-16"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-20c2bc3195bf3b15",
+        "party": "Labour",
+        "topic": "Education",
+        "title": "Independent curriculum and assessment council",
+        "summary": "Establish an Independent Council for Curriculum and Assessment in legislation, with an interim expert group appointed within the first three months.",
+        "sourceURL": "https://www.labour.org.nz/news/release-labour-to-give-parents-confidence-in-their-children-s-education/",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-labour-to-give-parents-confidence-in-their-children-s-education/",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-00ea468ed3ab9f17",
+        "party": "Labour",
+        "topic": "Education",
+        "title": "One-year pause for unimplemented curriculum changes",
+        "summary": "Pause curriculum changes that have not yet been implemented for one year while expert advice is obtained, while continuing mathematics and English work already underway.",
+        "sourceURL": "https://www.labour.org.nz/news/release-labour-to-give-parents-confidence-in-their-children-s-education/",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-labour-to-give-parents-confidence-in-their-children-s-education/",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-65042fe009b9ad0d",
+        "party": "Labour",
+        "topic": "Education",
+        "title": "Keep the current NCEA system until 2029",
+        "summary": "Keep the current NCEA system unchanged until 2029 so expert advice can be considered and any later changes can be planned and phased.",
+        "sourceURL": "https://www.labour.org.nz/news/release-labour-to-give-parents-confidence-in-their-children-s-education/",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-labour-to-give-parents-confidence-in-their-children-s-education/",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-411d60ffb33b4ff5",
+        "party": "Labour",
+        "topic": "Groceries",
+        "title": "End restrictive supermarket contracts",
+        "summary": "End supermarket contracts that prevent individual stores from lowering prices, changing chains or becoming independent.",
+        "sourceURL": "https://www.labour.org.nz/fairer-grocery-prices",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/fairer-grocery-prices",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-987ffee855213b8a",
+        "party": "Labour",
+        "topic": "Groceries",
+        "title": "Ban supermarket supplier junk fees",
+        "summary": "Ban supermarket fees charged to food producers for services that provide no real value, and simplify rebates and data charges.",
+        "sourceURL": "https://www.labour.org.nz/fairer-grocery-prices",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/fairer-grocery-prices",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-4157350c2925c2f6",
+        "party": "Labour",
+        "topic": "Groceries",
+        "title": "Guarantee wholesale supply for smaller grocers",
+        "summary": "Guarantee smaller supermarkets and grocers access to wholesale supply that cannot be withdrawn because they grow or compete more strongly.",
+        "sourceURL": "https://www.labour.org.nz/fairer-grocery-prices",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/fairer-grocery-prices",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-ef58fe409db39e3c",
+        "party": "Labour",
+        "topic": "Groceries",
+        "title": "Create two independent grocery wholesalers",
+        "summary": "Create independently run Foodstuffs Wholesale and Woolworths Wholesale businesses to supply competing supermarkets and grocers.",
+        "sourceURL": "https://www.labour.org.nz/fairer-grocery-prices",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/fairer-grocery-prices",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-act-7187738f24ce3be1",
+        "party": "ACT",
+        "topic": "Energy",
+        "title": "Stronger electricity competition enforcement",
+        "summary": "Put electricity-market competition and fair access first and strengthen enforcement when companies misuse market power to block better consumer deals.",
+        "sourceURL": "https://www.act.org.nz/news/abundant-electricity-will-ease-cost-of-living",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.act.org.nz/news/abundant-electricity-will-ease-cost-of-living",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-act-4a72761abb8f2adf",
+        "party": "ACT",
+        "topic": "Energy",
+        "title": "Choose who buys household-generated power",
+        "summary": "Allow households generating electricity to sell their surplus to the buyer offering the best deal rather than requiring them to use their retail supplier.",
+        "sourceURL": "https://www.act.org.nz/news/abundant-electricity-will-ease-cost-of-living",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.act.org.nz/news/abundant-electricity-will-ease-cost-of-living",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-act-99e2bc80b3f7ecc3",
+        "party": "ACT",
+        "topic": "Energy",
+        "title": "Private investment in electricity transmission",
+        "summary": "Allow private investors to build, own and operate transmission connected to the National Grid when common technical and reliability standards are met.",
+        "sourceURL": "https://www.act.org.nz/news/abundant-electricity-will-ease-cost-of-living",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.act.org.nz/news/abundant-electricity-will-ease-cost-of-living",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-act-944ac4a52e528d19",
+        "party": "ACT",
+        "topic": "Energy",
+        "title": "Competitive electricity connection work",
+        "summary": "Allow qualified providers to compete to deliver customer-funded electricity connection work for homes, developments and businesses.",
+        "sourceURL": "https://www.act.org.nz/news/abundant-electricity-will-ease-cost-of-living",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.act.org.nz/news/abundant-electricity-will-ease-cost-of-living",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-act-a8726a50f2cc264d",
+        "party": "ACT",
+        "topic": "Energy",
+        "title": "Alternatives must compete with new electricity lines",
+        "summary": "Require batteries, flexible connections and demand-response options to compete with expensive electricity-network upgrades where they can meet the same need.",
+        "sourceURL": "https://www.act.org.nz/news/abundant-electricity-will-ease-cost-of-living",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.act.org.nz/news/abundant-electricity-will-ease-cost-of-living",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-act-3e2a91a396739561",
+        "party": "ACT",
+        "topic": "Agriculture",
+        "title": "Property-rights rules for the RMA replacement",
+        "summary": "Put property rights first in national rules replacing the RMA, using clear measurable standards focused on actual environmental harm and local conditions.",
+        "sourceURL": "https://www.act.org.nz/make-farming-fun-again",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.act.org.nz/make-farming-fun-again",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-act-3aa49cd0b3ad7afc",
+        "party": "ACT",
+        "topic": "Freshwater",
+        "title": "Remove Te Mana o te Wai",
+        "summary": "Remove Te Mana o te Wai from freshwater regulation and prevent equivalent requirements returning under another name.",
+        "sourceURL": "https://www.act.org.nz/make-farming-fun-again",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.act.org.nz/make-farming-fun-again",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-act-2d56a8633914c8c4",
+        "party": "ACT",
+        "topic": "Agriculture",
+        "title": "Prevent a return of Significant Natural Area rules",
+        "summary": "Protect farmers from a return of Labour-style Significant Natural Area rules.",
+        "sourceURL": "https://www.act.org.nz/make-farming-fun-again",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.act.org.nz/make-farming-fun-again",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-act-24a057c4c6887162",
+        "party": "ACT",
+        "topic": "Conservation",
+        "title": "Biodiversity credits and QEII conservation",
+        "summary": "Expand voluntary conservation through biodiversity credits and the QEII National Trust.",
+        "sourceURL": "https://www.act.org.nz/make-farming-fun-again",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.act.org.nz/make-farming-fun-again",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-act-89cf1ee9fd172d88",
+        "party": "ACT",
+        "topic": "Freshwater",
+        "title": "$13.5m annual rural catchment-group funding",
+        "summary": "Redirect $4.5 million a year of existing MPI spending to keep rural catchment-group funding at $13.5 million annually, with further funding possible for demonstrated water-quality results.",
+        "sourceURL": "https://www.act.org.nz/make-farming-fun-again",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.act.org.nz/make-farming-fun-again",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-act-a2b9652160a6de23",
+        "party": "ACT",
+        "topic": "Freshwater",
+        "title": "Practical freshwater farm plans",
+        "summary": "Keep freshwater farm plans practical and affordable, focused on genuine environmental risks.",
+        "sourceURL": "https://www.act.org.nz/make-farming-fun-again",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.act.org.nz/make-farming-fun-again",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-act-d59cf04deb1398a9",
+        "party": "ACT",
+        "topic": "Forestry",
+        "title": "Forest owners carry long-term forest costs",
+        "summary": "Require permanent forest owners to carry their forests' long-term costs and risks, including sufficient pest control.",
+        "sourceURL": "https://www.act.org.nz/make-farming-fun-again",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.act.org.nz/make-farming-fun-again",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-act-40f4bf973c2a1fdd",
+        "party": "ACT",
+        "topic": "Environment",
+        "title": "Higher penalties for illegal dumping",
+        "summary": "Increase penalties for illegal rubbish dumping.",
+        "sourceURL": "https://www.act.org.nz/make-farming-fun-again",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.act.org.nz/make-farming-fun-again",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-act-d452aaac1557c0c2",
+        "party": "ACT",
+        "topic": "Climate",
+        "title": "Keep agriculture permanently outside the ETS",
+        "summary": "Keep agriculture permanently out of the Emissions Trading Scheme and oppose agricultural emissions taxes or pricing schemes.",
+        "sourceURL": "https://www.act.org.nz/make-farming-fun-again",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.act.org.nz/make-farming-fun-again",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-act-b70da22a26e0b683",
+        "party": "ACT",
+        "topic": "Climate",
+        "title": "Treat methane differently from carbon dioxide",
+        "summary": "Recognise the different warming effects of methane and carbon dioxide in climate policy.",
+        "sourceURL": "https://www.act.org.nz/make-farming-fun-again",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.act.org.nz/make-farming-fun-again",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-act-0b86d790e831d28f",
+        "party": "ACT",
+        "topic": "Climate",
+        "title": "Remove the ETS price floor",
+        "summary": "Remove the Emissions Trading Scheme price floor that supports carbon prices and encourages blanket carbon farming.",
+        "sourceURL": "https://www.act.org.nz/make-farming-fun-again",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.act.org.nz/make-farming-fun-again",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-act-7e41528905f6bf7d",
+        "party": "ACT",
+        "topic": "Agriculture",
+        "title": "Recognise overseas agricultural-product approvals",
+        "summary": "Speed access to agricultural chemicals and veterinary medicines by recognising approvals from trusted overseas regulators.",
+        "sourceURL": "https://www.act.org.nz/make-farming-fun-again",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.act.org.nz/make-farming-fun-again",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-act-7fee5a2490fd9bb5",
+        "party": "ACT",
+        "topic": "Agriculture",
+        "title": "Reduce restrictions on agricultural drones",
+        "summary": "Remove unnecessary restrictions on agricultural drones and barriers to new farming technology.",
+        "sourceURL": "https://www.act.org.nz/make-farming-fun-again",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.act.org.nz/make-farming-fun-again",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-act-d94b699e0854df3d",
+        "party": "ACT",
+        "topic": "Agriculture",
+        "title": "Easier direct farm-product sales",
+        "summary": "Reduce homekill red tape and make it easier for farmers to sell their products directly to consumers.",
+        "sourceURL": "https://www.act.org.nz/make-farming-fun-again",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.act.org.nz/make-farming-fun-again",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-act-b444da2cb2b69a70",
+        "party": "ACT",
+        "topic": "Health",
+        "title": "24-hour prescription collection lockers",
+        "summary": "Enable secure electronic lockers so rural patients can collect eligible pre-dispensed medicines outside pharmacy opening hours.",
+        "sourceURL": "https://www.act.org.nz/make-farming-fun-again",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.act.org.nz/make-farming-fun-again",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-74c13c0124371c2b",
+        "party": "Green Party",
+        "topic": "Conservation",
+        "title": "Remove the economic imperative for conservation land",
+        "summary": "Remove the Coalition Government's economic imperative for public conservation land so it is managed for nature rather than profit.",
+        "sourceURL": "https://www.greens.org.nz/greens_commit_to_undoing_attacks_on_conservation_and_environment_laws",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.greens.org.nz/greens_commit_to_undoing_attacks_on_conservation_and_environment_laws",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-a8460d4fea3f7460",
+        "party": "Green Party",
+        "topic": "Environment",
+        "title": "Evidence-based ecosystem health limits",
+        "summary": "Put strong evidence-based limits in place to protect ecosystem health.",
+        "sourceURL": "https://www.greens.org.nz/greens_commit_to_undoing_attacks_on_conservation_and_environment_laws",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.greens.org.nz/greens_commit_to_undoing_attacks_on_conservation_and_environment_laws",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-30ccaa638ceec2cd",
+        "party": "Green Party",
+        "topic": "Environment",
+        "title": "Tangata whenua shared decision-making in resource management",
+        "summary": "Affirm Te Tiriti and the role of tangata whenua as shared decision-makers and kaitiaki in the new resource-management system.",
+        "sourceURL": "https://www.greens.org.nz/greens_commit_to_undoing_attacks_on_conservation_and_environment_laws",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.greens.org.nz/greens_commit_to_undoing_attacks_on_conservation_and_environment_laws",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-ee45064856e592ec",
+        "party": "New Zealand First",
+        "topic": "Health",
+        "title": "Nutrition education from primary school to medical school",
+        "summary": "Promote nutrition education from primary school through to medical education.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_campaign_announcement_the_plan_to_make_nz_healthy",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_campaign_announcement_the_plan_to_make_nz_healthy",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-26b5c4c2c19a4531",
+        "party": "New Zealand First",
+        "topic": "Health",
+        "title": "Independent review of dietary guidelines",
+        "summary": "Commission a full independent review of New Zealand's dietary guidelines.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_campaign_announcement_the_plan_to_make_nz_healthy",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_campaign_announcement_the_plan_to_make_nz_healthy",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-89ce7acd002714b3",
+        "party": "New Zealand First",
+        "topic": "Health",
+        "title": "Reduce GP administration and restore clinical autonomy",
+        "summary": "Reduce administrative burdens in general practice and restore professional autonomy for GPs.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_campaign_announcement_the_plan_to_make_nz_healthy",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_campaign_announcement_the_plan_to_make_nz_healthy",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-43e864052a6a43df",
+        "party": "New Zealand First",
+        "topic": "Health",
+        "title": "Health coaches in primary care",
+        "summary": "Support general practices by bringing health coaches into primary care.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_campaign_announcement_the_plan_to_make_nz_healthy",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_campaign_announcement_the_plan_to_make_nz_healthy",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-78ee876a37f21304",
+        "party": "New Zealand First",
+        "topic": "Mental health",
+        "title": "Research nutritional interventions for mental illness",
+        "summary": "Fund New Zealand scientists to assess nutritional interventions for preventing and treating mental illness.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_campaign_announcement_the_plan_to_make_nz_healthy",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_campaign_announcement_the_plan_to_make_nz_healthy",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-7ce7426b955b4b82",
+        "party": "New Zealand First",
+        "topic": "Health",
+        "title": "Remove barriers to recognised safe nutrients",
+        "summary": "Remove Medsafe and Pharmac barriers to nutrients recognised as safe.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_campaign_announcement_the_plan_to_make_nz_healthy",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_campaign_announcement_the_plan_to_make_nz_healthy",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-ecdf8136be94bca7",
+        "party": "New Zealand First",
+        "topic": "Health",
+        "title": "Hospital trials of intravenous vitamin C",
+        "summary": "Fund hospital trials of intravenous vitamin C before and after surgery to assess its effectiveness in preventing and treating infections.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_campaign_announcement_the_plan_to_make_nz_healthy",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_campaign_announcement_the_plan_to_make_nz_healthy",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-39b8c48bc86036b0",
+        "party": "New Zealand First",
+        "topic": "Health",
+        "title": "Review optimal vitamin D levels",
+        "summary": "Fund a review of vitamin D to determine optimal levels for maintaining health.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_campaign_announcement_the_plan_to_make_nz_healthy",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_campaign_announcement_the_plan_to_make_nz_healthy",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-256ffd89e6312da8",
+        "party": "New Zealand First",
+        "topic": "Agriculture",
+        "title": "Agricultural innovation and alternatives to harmful sprays",
+        "summary": "Invest in agricultural innovation for productivity, soil health, sustainability and resilience while researching practical alternatives to potentially harmful sprays.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_campaign_announcement_the_plan_to_make_nz_healthy",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_campaign_announcement_the_plan_to_make_nz_healthy",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-1e6104e6d16f41a2",
+        "party": "New Zealand First",
+        "topic": "Agriculture",
+        "title": "Support organic producers and markets",
+        "summary": "Reduce unnecessary barriers for organic producers, encourage investment and innovation, and grow markets for New Zealand organic products.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_campaign_announcement_the_plan_to_make_nz_healthy",
+        "dateAnnouncedOrVerified": "2026-09-20",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_campaign_announcement_the_plan_to_make_nz_healthy",
+      "verifiedAt": "2026-09-20",
+      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
     }
   ]
 }
