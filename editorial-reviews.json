@@ -3917,10 +3917,10 @@
         "supersedesPolicyID": null,
         "supersededByPolicyID": null
       },
-      "decision": "confirmed",
-      "reason": "Core wording cross-referenced against official party material in the 2026-09-16 audit; package detail is not exhaustive.",
-      "officialSourceURL": "https://www.maoriparty.org.nz/policy",
-      "verifiedAt": "2026-09-16"
+      "decision": "hold",
+      "reason": "Superseded by Te Pāti Māori’s detailed 23 September 2026 Mana Takatāpui announcement; preserve the old response ID and publish the materially expanded commitments under new stable IDs.",
+      "officialSourceURL": "https://www.maoriparty.org.nz/te_p_ti_m_ori_launches_mana_takat_pui_policy",
+      "verifiedAt": "2026-09-23"
     },
     {
       "input": {
@@ -5483,6 +5483,253 @@
       "officialSourceURL": "https://www.nzfirst.nz/nzfirst_campaign_announcement_the_plan_to_make_nz_healthy",
       "verifiedAt": "2026-09-20",
       "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-906bad16269d517f",
+        "party": "Labour",
+        "topic": "Foreign affairs",
+        "title": "Recognise the State of Palestine",
+        "summary": "Recognise the State of Palestine.",
+        "sourceURL": "https://www.labour.org.nz/news/speech-labours-foreign-policy/",
+        "dateAnnouncedOrVerified": "2026-09-23",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/speech-labours-foreign-policy/",
+      "verifiedAt": "2026-09-23",
+      "reason": "Labour's official foreign-policy speech explicitly commits to recognising the State of Palestine."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-6cafcace92d117ca",
+        "party": "Labour",
+        "topic": "Foreign affairs",
+        "title": "Economic sanctions on Israel",
+        "summary": "Impose economic sanctions on Israel.",
+        "sourceURL": "https://www.labour.org.nz/news/speech-labours-foreign-policy/",
+        "dateAnnouncedOrVerified": "2026-09-23",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/speech-labours-foreign-policy/",
+      "verifiedAt": "2026-09-23",
+      "reason": "Labour's official foreign-policy speech explicitly commits to economic sanctions on Israel."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-2a47eba0233ee418",
+        "party": "Labour",
+        "topic": "Foreign affairs",
+        "title": "Divest public funds from listed occupied-territory companies",
+        "summary": "Require the NZ Super Fund and ACC to divest holdings in companies on the UN list of businesses operating in the occupied territories.",
+        "sourceURL": "https://www.labour.org.nz/news/speech-labours-foreign-policy/",
+        "dateAnnouncedOrVerified": "2026-09-23",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/speech-labours-foreign-policy/",
+      "verifiedAt": "2026-09-23",
+      "reason": "Labour's official foreign-policy speech explicitly identifies both public funds and the UN company list that would govern divestment."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-a96d0fc36e233792",
+        "party": "Labour",
+        "topic": "Foreign affairs",
+        "title": "Support South Africa’s ICJ genocide case",
+        "summary": "Intervene in support of South Africa's case at the International Court of Justice concerning a breach of the Genocide Convention.",
+        "sourceURL": "https://www.labour.org.nz/news/speech-labours-foreign-policy/",
+        "dateAnnouncedOrVerified": "2026-09-23",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/speech-labours-foreign-policy/",
+      "verifiedAt": "2026-09-23",
+      "reason": "Labour's official foreign-policy speech explicitly commits to intervening in support of South Africa's ICJ case."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-ac8451a67d70bfad",
+        "party": "Labour",
+        "topic": "Foreign affairs",
+        "title": "Ban lethal fully autonomous weapons",
+        "summary": "Advocate for an ICJ advisory opinion on the legality of lethal fully autonomous weapons and support international efforts to ban them.",
+        "sourceURL": "https://www.labour.org.nz/news/speech-labours-foreign-policy/",
+        "dateAnnouncedOrVerified": "2026-09-23",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/speech-labours-foreign-policy/",
+      "verifiedAt": "2026-09-23",
+      "reason": "Labour's official foreign-policy speech explicitly commits to both the advisory-opinion advocacy and international ban efforts."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-35b96a9c781358b5",
+        "party": "Labour",
+        "topic": "Foreign affairs",
+        "title": "Parliamentary scrutiny for joining armed conflicts",
+        "summary": "Establish clear parliamentary scrutiny if New Zealand joins armed conflicts.",
+        "sourceURL": "https://www.labour.org.nz/news/speech-labours-foreign-policy/",
+        "dateAnnouncedOrVerified": "2026-09-23",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/speech-labours-foreign-policy/",
+      "verifiedAt": "2026-09-23",
+      "reason": "Labour's official foreign-policy speech explicitly commits to parliamentary scrutiny when New Zealand joins armed conflicts."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-fdf8cf2d96301b41",
+        "party": "Labour",
+        "topic": "Technology",
+        "title": "Stronger oversight of New Zealand space payloads",
+        "summary": "Strengthen oversight of payloads launched from New Zealand to ensure compliance with current law.",
+        "sourceURL": "https://www.labour.org.nz/news/speech-labours-foreign-policy/",
+        "dateAnnouncedOrVerified": "2026-09-23",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/speech-labours-foreign-policy/",
+      "verifiedAt": "2026-09-23",
+      "reason": "Labour's official foreign-policy speech explicitly commits to stronger legal-compliance oversight for payloads launched from New Zealand."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-122f44a8d930356b",
+        "party": "Labour",
+        "topic": "Foreign affairs",
+        "title": "Safe-haven programme for human rights defenders",
+        "summary": "Establish a programme offering safe haven to human rights defenders who face acute targeting.",
+        "sourceURL": "https://www.labour.org.nz/news/speech-labours-foreign-policy/",
+        "dateAnnouncedOrVerified": "2026-09-23",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/speech-labours-foreign-policy/",
+      "verifiedAt": "2026-09-23",
+      "reason": "Labour's official foreign-policy speech explicitly commits to a support and safe-haven programme for acutely targeted human rights defenders."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-668d05ef3505969a",
+        "party": "Labour",
+        "topic": "Pacific peoples",
+        "title": "Pacific climate adaptation and displacement agreement",
+        "summary": "Work toward a Pacific agreement on climate mitigation, adaptation and displacement, including long-term adaptation and resettlement work with Kiribati and Tuvalu.",
+        "sourceURL": "https://www.labour.org.nz/news/speech-labours-foreign-policy/",
+        "dateAnnouncedOrVerified": "2026-09-23",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/speech-labours-foreign-policy/",
+      "verifiedAt": "2026-09-23",
+      "reason": "Labour's official foreign-policy speech explicitly commits to the Pacific agreement and specifies work with Kiribati and Tuvalu."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-55695229909db04b",
+        "party": "Labour",
+        "topic": "Foreign affairs",
+        "title": "Increase overseas development assistance toward 0.7% of GNI",
+        "summary": "Progressively increase overseas development assistance toward 0.7% of GNI as fiscal conditions allow.",
+        "sourceURL": "https://www.labour.org.nz/news/speech-labours-foreign-policy/",
+        "dateAnnouncedOrVerified": "2026-09-23",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/speech-labours-foreign-policy/",
+      "verifiedAt": "2026-09-23",
+      "reason": "Labour's official foreign-policy speech states the 0.7% of GNI direction and its fiscal-conditions qualification."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-f38a4864661d0d98",
+        "party": "Labour",
+        "topic": "Pacific peoples",
+        "title": "Easier movement of money and data across the Pacific",
+        "summary": "Support closer Pacific economic integration and make moving money and data across the Pacific easier and cheaper.",
+        "sourceURL": "https://www.labour.org.nz/news/speech-labours-foreign-policy/",
+        "dateAnnouncedOrVerified": "2026-09-23",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/speech-labours-foreign-policy/",
+      "verifiedAt": "2026-09-23",
+      "reason": "Labour's official foreign-policy speech explicitly commits to Pacific economic integration and cheaper movement of money and data."
+    },
+    {
+      "input": {
+        "id": "nzpt-te-pati-maori-57140bf7fa156077",
+        "party": "Te Pāti Māori",
+        "topic": "Equality",
+        "title": "Independent Takatāpui-governed Commission",
+        "summary": "Establish an independent Takatāpui-governed Commission with authority over guaranteed, ring-fenced Takatāpui-specific funding.",
+        "sourceURL": "https://www.maoriparty.org.nz/te_p_ti_m_ori_launches_mana_takat_pui_policy",
+        "dateAnnouncedOrVerified": "2026-09-23",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.maoriparty.org.nz/te_p_ti_m_ori_launches_mana_takat_pui_policy",
+      "verifiedAt": "2026-09-23",
+      "reason": "Te Pāti Māori's official announcement explicitly establishes the independent governed Commission and its funding authority."
+    },
+    {
+      "input": {
+        "id": "nzpt-te-pati-maori-688814d67167d125",
+        "party": "Te Pāti Māori",
+        "topic": "Equality",
+        "title": "$200 million Mana Takatāpui investment",
+        "summary": "Invest $200 million over three years across healthcare, mental health, housing, safety, education and culture, including direct investment in Takatāpui-led organisations.",
+        "sourceURL": "https://www.maoriparty.org.nz/te_p_ti_m_ori_launches_mana_takat_pui_policy",
+        "dateAnnouncedOrVerified": "2026-09-23",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": "nzpt-te-pati-maori-dbe58698dc8ef25d",
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.maoriparty.org.nz/te_p_ti_m_ori_launches_mana_takat_pui_policy",
+      "verifiedAt": "2026-09-23",
+      "reason": "Te Pāti Māori's official announcement specifies the amount, duration, service areas and direct investment; this materially replaces the earlier general Takatāpui wellbeing entry."
     }
   ]
 }
