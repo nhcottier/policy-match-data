@@ -5730,6 +5730,120 @@
       "officialSourceURL": "https://www.maoriparty.org.nz/te_p_ti_m_ori_launches_mana_takat_pui_policy",
       "verifiedAt": "2026-09-23",
       "reason": "Te Pāti Māori's official announcement specifies the amount, duration, service areas and direct investment; this materially replaces the earlier general Takatāpui wellbeing entry."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-00d58197ec4e8538",
+        "party": "Labour",
+        "topic": "Tertiary education",
+        "title": "Cut eligible student-loan balances by 10%",
+        "summary": "Cut eligible student-loan balances by 10%; existing graduates who missed Fees Free receive the cut on 1 April 2027, while current and future students qualify after remaining in New Zealand for three years after study.",
+        "sourceURL": "https://www.labour.org.nz/news/release-labour-to-cut-student-debt/",
+        "dateAnnouncedOrVerified": "2026-09-27",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-labour-to-cut-student-debt/",
+      "verifiedAt": "2026-09-27",
+      "reason": "Labour's official 27 September announcement specifies the 10% balance reduction, commencement date and eligibility pathway for existing, current and future students."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-ebabf5d4db74056e",
+        "party": "Labour",
+        "topic": "Tertiary education",
+        "title": "Wipe eligible student-loan balances of $2,000 or less",
+        "summary": "Write off student-loan balances of $2,000 or less for borrowers eligible under Labour's student-debt reduction policy.",
+        "sourceURL": "https://www.labour.org.nz/news/release-labour-to-cut-student-debt/",
+        "dateAnnouncedOrVerified": "2026-09-27",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-labour-to-cut-student-debt/",
+      "verifiedAt": "2026-09-27",
+      "reason": "Labour's official 27 September announcement separately commits to fully writing off eligible balances of $2,000 or less."
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-e4c063c8a82dc03c",
+        "party": "New Zealand First",
+        "topic": "Small business",
+        "title": "20% company tax rate for SMEs",
+        "summary": "Reduce the company tax rate from 28% to 20% for businesses with annual turnover below $30 million.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_to_campaign_on_20_tax_rate_for_smes",
+        "dateAnnouncedOrVerified": "2026-09-24",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_to_campaign_on_20_tax_rate_for_smes",
+      "verifiedAt": "2026-09-24",
+      "reason": "New Zealand First's official 24 September announcement specifies the 20% rate, current 28% rate and turnover threshold below $30 million."
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-10bb88f9a86addbc",
+        "party": "New Zealand First",
+        "topic": "Te Tiriti",
+        "title": "Replace the Waitangi Tribunal with a completion commission",
+        "summary": "Introduce legislation within the first 100 days to abolish the Waitangi Tribunal and replace it with a commission tasked with finalising claims arising before 2008.",
+        "sourceURL": "https://www.nzfirst.nz/ending_the_waitangi_make_work_industry",
+        "dateAnnouncedOrVerified": "2026-09-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.nzfirst.nz/ending_the_waitangi_make_work_industry",
+      "verifiedAt": "2026-09-26",
+      "reason": "New Zealand First's official 26 September announcement specifies legislation within 100 days, abolition of the Tribunal, its replacement and the replacement body's remit."
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-b7dd2a4bb6cb8f34",
+        "party": "New Zealand First",
+        "topic": "Māori development",
+        "title": "Prioritise Māori land reform",
+        "summary": "Prioritise Māori land reform and administrative improvements in the Māori Land Court.",
+        "sourceURL": "https://www.nzfirst.nz/ending_the_waitangi_make_work_industry",
+        "dateAnnouncedOrVerified": "2026-09-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.nzfirst.nz/ending_the_waitangi_make_work_industry",
+      "verifiedAt": "2026-09-26",
+      "reason": "New Zealand First's official 26 September announcement identifies Māori land reform and Māori Land Court administration as a major priority."
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-a90d2a19887b78b1",
+        "party": "New Zealand First",
+        "topic": "Māori development",
+        "title": "Move Crown–Māori and settlement work to the Ministry of Māori Development",
+        "summary": "Make a strengthened Ministry of Māori Development responsible for settlement implementation, contemporary claims, post-settlement leadership and Crown–Māori relations.",
+        "sourceURL": "https://www.nzfirst.nz/ending_the_waitangi_make_work_industry",
+        "dateAnnouncedOrVerified": "2026-09-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.nzfirst.nz/ending_the_waitangi_make_work_industry",
+      "verifiedAt": "2026-09-26",
+      "reason": "New Zealand First's official 26 September announcement assigns settlement, contemporary-claim, post-settlement and Crown–Māori work to a strengthened Ministry of Māori Development."
     }
   ]
 }
