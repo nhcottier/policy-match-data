@@ -5844,6 +5844,253 @@
       "officialSourceURL": "https://www.nzfirst.nz/ending_the_waitangi_make_work_industry",
       "verifiedAt": "2026-09-26",
       "reason": "New Zealand First's official 26 September announcement assigns settlement, contemporary-claim, post-settlement and Crown–Māori work to a strengthened Ministry of Māori Development."
+    },
+    {
+      "input": {
+        "id": "nzpt-national-d124ee6c5261db05",
+        "party": "National",
+        "topic": "Tax",
+        "title": "Simplify FBT vehicle record-keeping",
+        "summary": "Remove the requirement for employers to keep detailed fringe-benefit-tax log books for work vehicles.",
+        "sourceURL": "https://www.national.org.nz/policies/nationals-eco-plan",
+        "dateAnnouncedOrVerified": "2026-09-28",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.national.org.nz/policies/nationals-eco-plan",
+      "verifiedAt": "2026-09-28",
+      "reason": "National's official Economic Plan commits to removing detailed FBT log-book requirements for work vehicles."
+    },
+    {
+      "input": {
+        "id": "nzpt-national-68b50f8ab1ec944a",
+        "party": "National",
+        "topic": "Science",
+        "title": "Pay R&D tax credits during the year",
+        "summary": "Allow innovative firms to receive research-and-development tax credits during the year rather than after it.",
+        "sourceURL": "https://www.national.org.nz/policies/nationals-eco-plan",
+        "dateAnnouncedOrVerified": "2026-09-28",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.national.org.nz/policies/nationals-eco-plan",
+      "verifiedAt": "2026-09-28",
+      "reason": "National's official Economic Plan commits to paying R&D tax credits during the year rather than after it."
+    },
+    {
+      "input": {
+        "id": "nzpt-national-b95f01f4e41b1683",
+        "party": "National",
+        "topic": "Tax",
+        "title": "Double the foreign investment fund threshold",
+        "summary": "Double the threshold at which overseas shares become subject to the foreign investment fund tax rules.",
+        "sourceURL": "https://www.national.org.nz/policies/nationals-eco-plan",
+        "dateAnnouncedOrVerified": "2026-09-28",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.national.org.nz/policies/nationals-eco-plan",
+      "verifiedAt": "2026-09-28",
+      "reason": "National's official Economic Plan commits to doubling the foreign investment fund threshold."
+    },
+    {
+      "input": {
+        "id": "nzpt-national-27b55cde0676b066",
+        "party": "National",
+        "topic": "Government",
+        "title": "Open government procurement supplier panels",
+        "summary": "Open currently closed government supplier panels so more businesses can compete for over $50 billion of annual government purchasing.",
+        "sourceURL": "https://www.national.org.nz/policies/nationals-eco-plan",
+        "dateAnnouncedOrVerified": "2026-09-28",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.national.org.nz/policies/nationals-eco-plan",
+      "verifiedAt": "2026-09-28",
+      "reason": "National's official Economic Plan commits to opening closed supplier panels to increase competition for government procurement."
+    },
+    {
+      "input": {
+        "id": "nzpt-national-03c5a4139bb8fd70",
+        "party": "National",
+        "topic": "Technology",
+        "title": "Coordinate regulation to enable new fintech",
+        "summary": "Coordinate regulation across the Reserve Bank, MBIE and the Financial Markets Authority to reduce bureaucracy and barriers to new financial technology.",
+        "sourceURL": "https://www.national.org.nz/policies/nationals-eco-plan",
+        "dateAnnouncedOrVerified": "2026-09-28",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.national.org.nz/policies/nationals-eco-plan",
+      "verifiedAt": "2026-09-28",
+      "reason": "National's official Economic Plan identifies coordinated regulation across the Reserve Bank, MBIE and FMA as a next-term commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-national-250d96b6a3c0ba89",
+        "party": "National",
+        "topic": "Regulation",
+        "title": "Rewrite health and safety codes in plain English",
+        "summary": "Rewrite health and safety codes in plain English to make compliance more straightforward.",
+        "sourceURL": "https://www.national.org.nz/policies/nationals-eco-plan",
+        "dateAnnouncedOrVerified": "2026-09-28",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.national.org.nz/policies/nationals-eco-plan",
+      "verifiedAt": "2026-09-28",
+      "reason": "National's official Economic Plan commits to a plain-English rewrite of health and safety codes."
+    },
+    {
+      "input": {
+        "id": "nzpt-national-a3034de939172516",
+        "party": "National",
+        "topic": "Education",
+        "title": "Replace NCEA with subject exams and A+ to E grades",
+        "summary": "Replace NCEA with A+ to E grades and an examination in every subject.",
+        "sourceURL": "https://www.national.org.nz/policies/nationals-eco-plan",
+        "dateAnnouncedOrVerified": "2026-09-28",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.national.org.nz/policies/nationals-eco-plan",
+      "verifiedAt": "2026-09-28",
+      "reason": "National's official Economic Plan specifies the replacement of NCEA with A+ to E grades and an exam in every subject."
+    },
+    {
+      "input": {
+        "id": "nzpt-national-0140535e18a6063e",
+        "party": "National",
+        "topic": "Education",
+        "title": "Double Trades Academy places to 20,000",
+        "summary": "Double Trades Academy places to 20,000 by 2030.",
+        "sourceURL": "https://www.national.org.nz/policies/nationals-eco-plan",
+        "dateAnnouncedOrVerified": "2026-09-28",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.national.org.nz/policies/nationals-eco-plan",
+      "verifiedAt": "2026-09-28",
+      "reason": "National's official Economic Plan specifies a target of 20,000 Trades Academy places by 2030."
+    },
+    {
+      "input": {
+        "id": "nzpt-national-525ee215cc2706f5",
+        "party": "National",
+        "topic": "Education",
+        "title": "Introduce nine industry-developed vocational subjects",
+        "summary": "Roll out nine new vocational subjects and courses developed with industry.",
+        "sourceURL": "https://www.national.org.nz/policies/nationals-eco-plan",
+        "dateAnnouncedOrVerified": "2026-09-28",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.national.org.nz/policies/nationals-eco-plan",
+      "verifiedAt": "2026-09-28",
+      "reason": "National's official Economic Plan commits to rolling out nine industry-developed vocational subjects and courses."
+    },
+    {
+      "input": {
+        "id": "nzpt-national-babb1d522b59155b",
+        "party": "National",
+        "topic": "Immigration",
+        "title": "Review tax settings for Active Investor Plus visa holders",
+        "summary": "Ensure foreign investment fund settings and Inland Revenue rules do not discourage Active Investor Plus visa holders from remaining in New Zealand and investing in the economy.",
+        "sourceURL": "https://www.national.org.nz/policies/nationals-eco-plan",
+        "dateAnnouncedOrVerified": "2026-09-28",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.national.org.nz/policies/nationals-eco-plan",
+      "verifiedAt": "2026-09-28",
+      "reason": "National's official Economic Plan commits to addressing FIF and Inland Revenue settings affecting Active Investor Plus visa holders."
+    },
+    {
+      "input": {
+        "id": "nzpt-national-f7f69309b33b0df8",
+        "party": "National",
+        "topic": "Infrastructure",
+        "title": "Legislate infrastructure asset-management and capital plans",
+        "summary": "Legislate requirements for infrastructure asset-management plans and long-term capital plans.",
+        "sourceURL": "https://www.national.org.nz/policies/nationals-eco-plan",
+        "dateAnnouncedOrVerified": "2026-09-28",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.national.org.nz/policies/nationals-eco-plan",
+      "verifiedAt": "2026-09-28",
+      "reason": "National's official Economic Plan commits to legislated asset-management and long-term capital-plan requirements."
+    },
+    {
+      "input": {
+        "id": "nzpt-national-93c1adc1421dfd28",
+        "party": "National",
+        "topic": "Infrastructure",
+        "title": "Internationally cost-benchmark government infrastructure",
+        "summary": "Require the Infrastructure Commission to internationally cost-benchmark government-led transport, school and hospital projects.",
+        "sourceURL": "https://www.national.org.nz/policies/nationals-eco-plan",
+        "dateAnnouncedOrVerified": "2026-09-28",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.national.org.nz/policies/nationals-eco-plan",
+      "verifiedAt": "2026-09-28",
+      "reason": "National's official Economic Plan assigns international cost benchmarking of government-led infrastructure to the Infrastructure Commission."
+    },
+    {
+      "input": {
+        "id": "nzpt-national-19e2bf2c9a4ba876",
+        "party": "National",
+        "topic": "Local government",
+        "title": "Cap council rates increases",
+        "summary": "Implement a rates cap intended to limit large increases in council costs.",
+        "sourceURL": "https://www.national.org.nz/policies/nationals-eco-plan",
+        "dateAnnouncedOrVerified": "2026-09-28",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.national.org.nz/policies/nationals-eco-plan",
+      "verifiedAt": "2026-09-28",
+      "reason": "National's official Economic Plan lists implementing a rates cap as a next-term commitment."
     }
   ]
 }
