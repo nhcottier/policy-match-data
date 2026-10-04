@@ -1,5 +1,5 @@
 {
-  "dataset": "datasets/2026.10.01-verified.1.json",
+  "dataset": "datasets/2026.10.05-verified.1.json",
   "reviews": "editorial-reviews.json",
   "baseURL": "https://nhcottier.github.io/policy-match-data"
 }

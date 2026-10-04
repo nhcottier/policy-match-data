@@ -1106,18 +1106,18 @@
         "party": "Labour",
         "topic": "Government finance",
         "title": "Return to surplus and reduce net debt",
-        "summary": "Return to OBEGAL surplus by 2029/30 and reduce net debt toward 20% of GDP while keeping spending and revenue sustainable.",
-        "sourceURL": "https://www.labour.org.nz/policy",
-        "dateAnnouncedOrVerified": "2026-09-15",
+        "summary": "Return to OBEGAL surplus in 2028/29 and bring net debt below 20% of GDP over time while holding the operating allowance at $2.4 billion per Budget.",
+        "sourceURL": "https://www.labour.org.nz/fiscal-plan",
+        "dateAnnouncedOrVerified": "2026-10-04",
         "policyStatus": "confirmed2026",
         "lifecycleStatus": "active",
         "supersedesPolicyID": null,
         "supersededByPolicyID": null
       },
       "decision": "confirmed",
-      "reason": "Core wording cross-referenced against official party material in the 2026-09-16 audit; package detail is not exhaustive.",
-      "officialSourceURL": "https://www.labour.org.nz/fiscal-strategy",
-      "verifiedAt": "2026-09-16"
+      "reason": "Labour's official 2026 Fiscal Plan updates the same fiscal commitment to an OBEGAL surplus in 2028/29, net debt below 20% of GDP over time and a $2.4 billion operating allowance. The stable ID is retained because this is an updated target within the same policy.",
+      "officialSourceURL": "https://www.labour.org.nz/fiscal-plan",
+      "verifiedAt": "2026-10-04"
     },
     {
       "input": {
@@ -6091,6 +6091,614 @@
       "officialSourceURL": "https://www.national.org.nz/policies/nationals-eco-plan",
       "verifiedAt": "2026-09-28",
       "reason": "National's official Economic Plan lists implementing a rates cap as a next-term commitment."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-b9df77837d38d6a4",
+        "party": "Labour",
+        "topic": "Consumer protection",
+        "title": "Ban junk car insurance",
+        "summary": "Ban junk car insurance products such as paint insurance and mechanical breakdown cover with broad exclusions.",
+        "sourceURL": "https://www.labour.org.nz/news/release-a-fair-go-for-families/",
+        "dateAnnouncedOrVerified": "2026-10-01",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-a-fair-go-for-families/",
+      "verifiedAt": "2026-10-01",
+      "reason": "Labour's official Fair Go Law announcement commits to banning specified junk car-insurance products."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-87d36e577403a6c8",
+        "party": "Labour",
+        "topic": "Consumer protection",
+        "title": "Stop hard-selling extended warranties",
+        "summary": "Stop the hard sell of extended warranties on electronics and whiteware at the checkout.",
+        "sourceURL": "https://www.labour.org.nz/news/release-a-fair-go-for-families/",
+        "dateAnnouncedOrVerified": "2026-10-01",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-a-fair-go-for-families/",
+      "verifiedAt": "2026-10-01",
+      "reason": "Labour's official Fair Go Law announcement commits to stopping checkout pressure to buy extended warranties."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-33eab34c5c7b3323",
+        "party": "Labour",
+        "topic": "Consumer protection",
+        "title": "Upfront pricing for mandatory fees",
+        "summary": "Require all mandatory fees, including ticket-sale fees, to be included in the price shown upfront.",
+        "sourceURL": "https://www.labour.org.nz/news/release-a-fair-go-for-families/",
+        "dateAnnouncedOrVerified": "2026-10-01",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-a-fair-go-for-families/",
+      "verifiedAt": "2026-10-01",
+      "reason": "Labour's official Fair Go Law announcement commits to upfront inclusion of mandatory fees."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-c96cb7bed0e70a7f",
+        "party": "Labour",
+        "topic": "Consumer protection",
+        "title": "Easy cancellation for subscriptions and gym memberships",
+        "summary": "Require subscription services and gym memberships to be as easy to cancel as they are to start.",
+        "sourceURL": "https://www.labour.org.nz/news/release-a-fair-go-for-families/",
+        "dateAnnouncedOrVerified": "2026-10-01",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-a-fair-go-for-families/",
+      "verifiedAt": "2026-10-01",
+      "reason": "Labour's official Fair Go Law announcement commits to simpler cancellation for subscriptions and gym memberships."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-211229a1e1402315",
+        "party": "Labour",
+        "topic": "Consumer protection",
+        "title": "Ban unfair phone and internet contract terms",
+        "summary": "Ban unfair exit fees, excessive notice periods and unclear auto-renewals on phone and internet contracts, and require the full price upfront.",
+        "sourceURL": "https://www.labour.org.nz/news/release-a-fair-go-for-families/",
+        "dateAnnouncedOrVerified": "2026-10-01",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-a-fair-go-for-families/",
+      "verifiedAt": "2026-10-01",
+      "reason": "Labour's official Fair Go Law announcement specifies these phone and internet contract protections."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-840d899dba8dbdf8",
+        "party": "Labour",
+        "topic": "Government",
+        "title": "Mandatory lobbyist code and public register",
+        "summary": "Introduce a mandatory code of conduct for paid lobbyists and a public register showing who they are and who pays them.",
+        "sourceURL": "https://www.labour.org.nz/news/speech-trust-in-government-chris-hipkins/",
+        "dateAnnouncedOrVerified": "2026-10-01",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/speech-trust-in-government-chris-hipkins/",
+      "verifiedAt": "2026-10-01",
+      "reason": "Labour's official trust-in-government speech commits to a lobbyist code and public register."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-a1b1596d36f465dc",
+        "party": "Labour",
+        "topic": "Government",
+        "title": "Stand-down period before former ministers can lobby",
+        "summary": "Introduce a stand-down period before former ministers can move from Cabinet into paid lobbying work.",
+        "sourceURL": "https://www.labour.org.nz/news/speech-trust-in-government-chris-hipkins/",
+        "dateAnnouncedOrVerified": "2026-10-01",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/speech-trust-in-government-chris-hipkins/",
+      "verifiedAt": "2026-10-01",
+      "reason": "Labour's official trust-in-government speech commits to a post-ministerial lobbying stand-down period."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-89b2108b5339f76b",
+        "party": "Labour",
+        "topic": "Government",
+        "title": "Restrict urgency and require later select-committee review",
+        "summary": "Restrict urgency to specified circumstances and automatically send laws passed under urgency to a select committee within six months.",
+        "sourceURL": "https://www.labour.org.nz/news/speech-trust-in-government-chris-hipkins/",
+        "dateAnnouncedOrVerified": "2026-10-01",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/speech-trust-in-government-chris-hipkins/",
+      "verifiedAt": "2026-10-01",
+      "reason": "Labour's official trust-in-government speech defines limits on urgency and a six-month select-committee review requirement."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-cc8558adb4e09783",
+        "party": "Labour",
+        "topic": "Government",
+        "title": "Modernise the Official Information Act",
+        "summary": "Codify proactive information releases, including ministers' diaries, and create penalties for breaches of the Official Information Act.",
+        "sourceURL": "https://www.labour.org.nz/news/speech-trust-in-government-chris-hipkins/",
+        "dateAnnouncedOrVerified": "2026-10-01",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/speech-trust-in-government-chris-hipkins/",
+      "verifiedAt": "2026-10-01",
+      "reason": "Labour's official trust-in-government speech commits to proactive releases and an OIA penalties regime."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-f09aef023039f4a1",
+        "party": "Labour",
+        "topic": "Democracy",
+        "title": "Restore election-day enrolment",
+        "summary": "Restore the ability of eligible people to enrol and vote on election day.",
+        "sourceURL": "https://www.labour.org.nz/news/speech-trust-in-government-chris-hipkins/",
+        "dateAnnouncedOrVerified": "2026-10-01",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/speech-trust-in-government-chris-hipkins/",
+      "verifiedAt": "2026-10-01",
+      "reason": "Labour's official trust-in-government speech commits to restoring election-day enrolment."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-58dd77ebdbafb8c5",
+        "party": "Labour",
+        "topic": "Democracy",
+        "title": "Voting at 16 in local elections",
+        "summary": "Give 16- and 17-year-olds the right to vote in local elections.",
+        "sourceURL": "https://www.labour.org.nz/news/speech-trust-in-government-chris-hipkins/",
+        "dateAnnouncedOrVerified": "2026-10-01",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/speech-trust-in-government-chris-hipkins/",
+      "verifiedAt": "2026-10-01",
+      "reason": "Labour's official trust-in-government speech commits to local-election voting rights for 16- and 17-year-olds."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-3e247d9183606f00",
+        "party": "Labour",
+        "topic": "Democracy",
+        "title": "One person, one vote in local elections",
+        "summary": "End the rule that allows some property owners to vote in more than one council area.",
+        "sourceURL": "https://www.labour.org.nz/news/speech-trust-in-government-chris-hipkins/",
+        "dateAnnouncedOrVerified": "2026-10-01",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/speech-trust-in-government-chris-hipkins/",
+      "verifiedAt": "2026-10-01",
+      "reason": "Labour's official trust-in-government speech commits to one person, one vote in local elections."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-6cb8b78b9a5b4769",
+        "party": "Labour",
+        "topic": "Democracy",
+        "title": "Equal donation disclosure for third-party campaigners",
+        "summary": "Require third-party campaigners in local and national elections to disclose donations on the same terms as political parties.",
+        "sourceURL": "https://www.labour.org.nz/news/speech-trust-in-government-chris-hipkins/",
+        "dateAnnouncedOrVerified": "2026-10-01",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/speech-trust-in-government-chris-hipkins/",
+      "verifiedAt": "2026-10-01",
+      "reason": "Labour's official trust-in-government speech commits to equal donation-disclosure rules for third-party campaigners."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-c19bcc1486f1c0b6",
+        "party": "Labour",
+        "topic": "Equality",
+        "title": "Restore pay equity legislation",
+        "summary": "Restore pay equity legislation in the first 100 days and accommodate work already completed on claims.",
+        "sourceURL": "https://www.labour.org.nz/news/release-labour-to-restore-pay-equity-immediate-pay-rise-for-care-and-support-workers/",
+        "dateAnnouncedOrVerified": "2026-10-04",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-labour-to-restore-pay-equity-immediate-pay-rise-for-care-and-support-workers/",
+      "verifiedAt": "2026-10-04",
+      "reason": "Labour's official pay-equity announcement commits to restoring the legislation within 100 days without restarting prior work."
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-faa0933755258614",
+        "party": "Labour",
+        "topic": "Employment",
+        "title": "$4 hourly pay rise for care and support workers",
+        "summary": "Increase pay for about 65,000 care and support workers by $4 an hour from 1 January 2027.",
+        "sourceURL": "https://www.labour.org.nz/news/release-labour-to-restore-pay-equity-immediate-pay-rise-for-care-and-support-workers/",
+        "dateAnnouncedOrVerified": "2026-10-04",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-labour-to-restore-pay-equity-immediate-pay-rise-for-care-and-support-workers/",
+      "verifiedAt": "2026-10-04",
+      "reason": "Labour's official pay-equity announcement specifies the hourly increase, affected workforce and start date."
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-6ccdb53d5eefe119",
+        "party": "Green Party",
+        "topic": "Equality",
+        "title": "Restore pay equity and fund care-worker settlement",
+        "summary": "Restore the pre-2025 pay equity law and set aside about $1.1 billion a year for a negotiated settlement covering roughly 65,000 care and support workers.",
+        "sourceURL": "https://www.greens.org.nz/greens_commit_to_pay_equity_for_care_workers",
+        "dateAnnouncedOrVerified": "2026-10-01",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.greens.org.nz/greens_commit_to_pay_equity_for_care_workers",
+      "verifiedAt": "2026-10-01",
+      "reason": "The Green Party's official announcement commits to restoring pay equity law and funding the care-worker settlement."
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-5f148b6b9c13c8d6",
+        "party": "Green Party",
+        "topic": "Transport",
+        "title": "Free and capped public-transport fares",
+        "summary": "Make bus and train fares free for children, teenagers, students, apprentices, Community Service Card holders and Total Mobility users, with a maximum $2 adult fare.",
+        "sourceURL": "https://www.greens.org.nz/green_party_launches_the_transport_plan_to_combat_fossil_fuel_crisis",
+        "dateAnnouncedOrVerified": "2026-10-04",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.greens.org.nz/green_party_launches_the_transport_plan_to_combat_fossil_fuel_crisis",
+      "verifiedAt": "2026-10-04",
+      "reason": "The Green Party's official transport plan specifies free fares for named groups and a maximum adult fare."
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-139bf4d4cd8ff660",
+        "party": "Green Party",
+        "topic": "Transport",
+        "title": "Mass rapid transit in Auckland, Wellington and Christchurch",
+        "summary": "Build mass rapid bus and light-rail systems in Auckland, Wellington and Christchurch.",
+        "sourceURL": "https://www.greens.org.nz/green_party_launches_the_transport_plan_to_combat_fossil_fuel_crisis",
+        "dateAnnouncedOrVerified": "2026-10-04",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.greens.org.nz/green_party_launches_the_transport_plan_to_combat_fossil_fuel_crisis",
+      "verifiedAt": "2026-10-04",
+      "reason": "The Green Party's official transport plan commits to mass rapid bus and light rail in the three named cities."
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-400d123a7d7ad55a",
+        "party": "Green Party",
+        "topic": "Transport",
+        "title": "Fund council public-transport service shortfalls",
+        "summary": "Fund council public-transport shortfalls to improve services in smaller cities, towns and major metropolitan areas.",
+        "sourceURL": "https://www.greens.org.nz/green_party_launches_the_transport_plan_to_combat_fossil_fuel_crisis",
+        "dateAnnouncedOrVerified": "2026-10-04",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.greens.org.nz/green_party_launches_the_transport_plan_to_combat_fossil_fuel_crisis",
+      "verifiedAt": "2026-10-04",
+      "reason": "The Green Party's official transport plan commits to funding council service shortfalls."
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-e4a42913ed1636b7",
+        "party": "Green Party",
+        "topic": "Transport",
+        "title": "More frequent inter-regional bus services",
+        "summary": "Deliver more frequent, affordable inter-regional bus services connecting smaller cities and towns.",
+        "sourceURL": "https://www.greens.org.nz/green_party_launches_the_transport_plan_to_combat_fossil_fuel_crisis",
+        "dateAnnouncedOrVerified": "2026-10-04",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.greens.org.nz/green_party_launches_the_transport_plan_to_combat_fossil_fuel_crisis",
+      "verifiedAt": "2026-10-04",
+      "reason": "The Green Party's official transport plan commits to more frequent inter-regional bus services."
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-a90ac933fdb7368c",
+        "party": "Green Party",
+        "topic": "Transport",
+        "title": "Intercity passenger rail services",
+        "summary": "Provide an Auckland-Wellington overnight train, restore Christchurch-Dunedin passenger rail with a possible Invercargill extension, and improve, electrify and extend Te Huia to Tauranga.",
+        "sourceURL": "https://www.greens.org.nz/green_party_launches_the_transport_plan_to_combat_fossil_fuel_crisis",
+        "dateAnnouncedOrVerified": "2026-10-04",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.greens.org.nz/green_party_launches_the_transport_plan_to_combat_fossil_fuel_crisis",
+      "verifiedAt": "2026-10-04",
+      "reason": "The Green Party's official transport plan specifies the proposed intercity passenger-rail services."
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-594bc285f055e0b0",
+        "party": "Green Party",
+        "topic": "Transport",
+        "title": "Enable more inner-city pedestrianisation",
+        "summary": "Enable councils to pedestrianise more inner-city areas to support urban revitalisation and safe walking and cycling.",
+        "sourceURL": "https://www.greens.org.nz/green_party_launches_the_transport_plan_to_combat_fossil_fuel_crisis",
+        "dateAnnouncedOrVerified": "2026-10-04",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.greens.org.nz/green_party_launches_the_transport_plan_to_combat_fossil_fuel_crisis",
+      "verifiedAt": "2026-10-04",
+      "reason": "The Green Party's official transport plan commits to enabling further council-led pedestrianisation."
+    },
+    {
+      "input": {
+        "id": "nzpt-national-25fae5a4f6976d17",
+        "party": "National",
+        "topic": "Energy regulation",
+        "title": "Energy development zones with user-funded transmission",
+        "summary": "Allow developers, major electricity users and investors to build transmission in new energy development zones and recover costs from users.",
+        "sourceURL": "https://www.national.org.nz/news/261002-simeonbrown",
+        "dateAnnouncedOrVerified": "2026-10-02",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.national.org.nz/news/261002-simeonbrown",
+      "verifiedAt": "2026-10-02",
+      "reason": "National's official Electrify NZ 2.0 announcement commits to new energy development zones and user-funded transmission."
+    },
+    {
+      "input": {
+        "id": "nzpt-national-7003f6a1878cb43d",
+        "party": "National",
+        "topic": "Energy regulation",
+        "title": "Choice of accredited electricity connection contractor",
+        "summary": "Allow electricity customers to choose an accredited contractor to complete connection work instead of using only their network's contractor.",
+        "sourceURL": "https://www.national.org.nz/news/261002-simeonbrown",
+        "dateAnnouncedOrVerified": "2026-10-02",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.national.org.nz/news/261002-simeonbrown",
+      "verifiedAt": "2026-10-02",
+      "reason": "National's official Electrify NZ 2.0 announcement commits to accredited-contractor choice for connections."
+    },
+    {
+      "input": {
+        "id": "nzpt-national-6713374757f4a77c",
+        "party": "National",
+        "topic": "Energy regulation",
+        "title": "Sell distributed electricity to any power company",
+        "summary": "Allow households and businesses with solar or batteries to sell electricity to any power company, not only their retailer.",
+        "sourceURL": "https://www.national.org.nz/news/261002-simeonbrown",
+        "dateAnnouncedOrVerified": "2026-10-02",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.national.org.nz/news/261002-simeonbrown",
+      "verifiedAt": "2026-10-02",
+      "reason": "National's official Electrify NZ 2.0 announcement commits to wider buyer choice for distributed electricity."
+    },
+    {
+      "input": {
+        "id": "nzpt-national-2b8d5e890fcdb4e3",
+        "party": "National",
+        "topic": "Energy regulation",
+        "title": "Open the backup electricity market",
+        "summary": "Open the backup-power market so smaller electricity retailers can obtain supply for dry years.",
+        "sourceURL": "https://www.national.org.nz/news/261002-simeonbrown",
+        "dateAnnouncedOrVerified": "2026-10-02",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.national.org.nz/news/261002-simeonbrown",
+      "verifiedAt": "2026-10-02",
+      "reason": "National's official Electrify NZ 2.0 announcement commits to opening the backup-power market."
+    },
+    {
+      "input": {
+        "id": "nzpt-national-fe7f0a77641622ce",
+        "party": "National",
+        "topic": "Energy regulation",
+        "title": "Review lines charges and fast-track small solar connections",
+        "summary": "Review the rules governing electricity lines charges and require residential and small-business solar connections to be approved within two working days.",
+        "sourceURL": "https://www.national.org.nz/news/261002-simeonbrown",
+        "dateAnnouncedOrVerified": "2026-10-02",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.national.org.nz/news/261002-simeonbrown",
+      "verifiedAt": "2026-10-02",
+      "reason": "National's official Electrify NZ 2.0 announcement combines a lines-charge rules review with a two-day small-solar approval rule."
+    },
+    {
+      "input": {
+        "id": "nzpt-national-be92a61f7f647ec9",
+        "party": "National",
+        "topic": "Energy regulation",
+        "title": "Electricity affordability as a statutory objective",
+        "summary": "Write electricity affordability into law as a core objective of the Electricity Authority.",
+        "sourceURL": "https://www.national.org.nz/news/261002-simeonbrown",
+        "dateAnnouncedOrVerified": "2026-10-02",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.national.org.nz/news/261002-simeonbrown",
+      "verifiedAt": "2026-10-02",
+      "reason": "National's official Electrify NZ 2.0 announcement commits to a statutory affordability objective."
+    },
+    {
+      "input": {
+        "id": "nzpt-national-a7b163b00ba57a7c",
+        "party": "National",
+        "topic": "Energy regulation",
+        "title": "Cut consenting barriers for renewable generation",
+        "summary": "Reduce regulatory barriers so wind, solar and hydro generation can be built faster.",
+        "sourceURL": "https://www.national.org.nz/news/261002-simeonbrown",
+        "dateAnnouncedOrVerified": "2026-10-02",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.national.org.nz/news/261002-simeonbrown",
+      "verifiedAt": "2026-10-02",
+      "reason": "National's official Electrify NZ 2.0 announcement commits to reducing regulatory barriers for renewable generation."
+    },
+    {
+      "input": {
+        "id": "nzpt-national-a4fa643c1f994dbf",
+        "party": "National",
+        "topic": "Tourism",
+        "title": "Seamless trans-Tasman travel trial",
+        "summary": "Work with Australia on a pre-October 2028 trial using digital credentials and biometrics to streamline travel for eligible Australian and New Zealand citizens while retaining border controls.",
+        "sourceURL": "https://www.national.org.nz/news/261001-national-to-trial-seamless-trans-tasman",
+        "dateAnnouncedOrVerified": "2026-10-01",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.national.org.nz/news/261001-national-to-trial-seamless-trans-tasman",
+      "verifiedAt": "2026-10-01",
+      "reason": "National's official announcement specifies a seamless trans-Tasman travel trial before the 2028 T20 World Cup."
+    },
+    {
+      "input": {
+        "id": "nzpt-national-b2a6c4b363d85ec2",
+        "party": "National",
+        "topic": "Transport",
+        "title": "Start Mill Road Stage One construction",
+        "summary": "Allocate $1.75 billion in Budget 2028 to begin construction of Mill Road Stage One between Manukau and Alfriston in the late-2028 construction season.",
+        "sourceURL": "https://www.national.org.nz/news/261004-chrisbishop",
+        "dateAnnouncedOrVerified": "2026-10-04",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.national.org.nz/news/261004-chrisbishop",
+      "verifiedAt": "2026-10-04",
+      "reason": "National's official Mill Road policy specifies Stage One funding, scope and intended construction start."
+    },
+    {
+      "input": {
+        "id": "nzpt-national-12a79d6a14c73bf9",
+        "party": "National",
+        "topic": "Transport",
+        "title": "Protect routes for Mill Road Stages Two and Three",
+        "summary": "Allocate $100 million to progress route protection for Mill Road Stages Two and Three.",
+        "sourceURL": "https://www.national.org.nz/news/261004-chrisbishop",
+        "dateAnnouncedOrVerified": "2026-10-04",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "officialSourceURL": "https://www.national.org.nz/news/261004-chrisbishop",
+      "verifiedAt": "2026-10-04",
+      "reason": "National's official Mill Road policy specifies funding for route protection on Stages Two and Three."
     }
   ]
 }
