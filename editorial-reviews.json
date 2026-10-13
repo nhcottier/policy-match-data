@@ -6699,6 +6699,2400 @@
       "officialSourceURL": "https://www.national.org.nz/news/261004-chrisbishop",
       "verifiedAt": "2026-10-04",
       "reason": "National's official Mill Road policy specifies funding for route protection on Stages Two and Three."
+    },
+    {
+      "input": {
+        "id": "nzpt-national-8312006a6f255849",
+        "party": "National",
+        "topic": "Employment",
+        "title": "First Employee Support Package",
+        "summary": "Provide first-year employment-agreement, payroll, tax, ACC and leave guidance for first-time employers, with reduced penalties for genuine administrative mistakes that cause no worker harm.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-7b1144572d7f0dd7",
+        "party": "National",
+        "topic": "Employment",
+        "title": "Recurring seasonal employment agreement",
+        "summary": "Create a standard recurring seasonal agreement and shorter renewal process while retaining the requirement for a genuine seasonal reason.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-80932df14249266a",
+        "party": "National",
+        "topic": "Education",
+        "title": "Digital apprenticeship competency records",
+        "summary": "Require consistent acceptance of approved digital competency records and electronic supervisor sign-off for apprenticeships.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-8e36ae2f2922ffaa",
+        "party": "National",
+        "topic": "Employment",
+        "title": "Employment Leave Act transition support",
+        "summary": "Provide early guidance, worked payroll examples and coordinated implementation support before the new leave system starts in August 2028.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-d9e684c0d8d42a3a",
+        "party": "National",
+        "topic": "Tax",
+        "title": "Review the GST registration threshold",
+        "summary": "Review the compulsory GST registration threshold to reduce compliance and remove barriers to small-business growth while considering fiscal impacts.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-01fff7c8598009a3",
+        "party": "National",
+        "topic": "Employment",
+        "title": "Fast-track minor employment disputes",
+        "summary": "Create a simplified Employment Relations Authority pathway for suitable minor disputes with clear eligibility and firm decision timeframes.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-84ef7d4d473bbf12",
+        "party": "National",
+        "topic": "Employment",
+        "title": "Offer mediation options for minor employment disputes",
+        "summary": "Require available mediator recommendations and binding options to be clearly explained and offered in suitable minor disputes.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-ccbea395e10fa742",
+        "party": "National",
+        "topic": "Employment",
+        "title": "One-month ERA determination deadline",
+        "summary": "Require Employment Relations Authority determinations within one month of the investigation meeting or final submissions, except in exceptional circumstances.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-82840da17bbf89f0",
+        "party": "National",
+        "topic": "Employment",
+        "title": "Reuse recorded oral evidence from the ERA",
+        "summary": "Require reliable recording of oral evidence in the Employment Relations Authority so it can be reused where lawful and fair.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-f7f09ffcd7a3e900",
+        "party": "National",
+        "topic": "Employment",
+        "title": "Strengthen ERA case-management powers",
+        "summary": "Strengthen Employment Relations Authority powers to narrow issues, direct relevant information and deal with unnecessary procedural delay.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-c9ca5e2dbbff9555",
+        "party": "National",
+        "topic": "Employment",
+        "title": "Review ERA enforcement powers",
+        "summary": "Review whether the Employment Relations Authority should be able to enforce more of its own orders without separate court proceedings.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-cddc1d628f944a43",
+        "party": "National",
+        "topic": "Employment",
+        "title": "Regulate paid employment advocates",
+        "summary": "Introduce proportionate conduct, competence, fee-transparency and complaints requirements for paid employment advocates.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-eccd1873a3da7b80",
+        "party": "National",
+        "topic": "Employment",
+        "title": "Employee-support threshold for collective bargaining",
+        "summary": "Require support from the lesser of 10 employees or 20% of those proposed to be covered, with a minimum of two, before new collective bargaining begins.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-2b497353d52522c7",
+        "party": "National",
+        "topic": "Employment",
+        "title": "Early employment-status determination",
+        "summary": "Create an early process for resolving disputed employee status under section 6 of the Employment Relations Act.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-70b9ef848491947f",
+        "party": "National",
+        "topic": "Employment",
+        "title": "Employment Relations Consolidation Bill",
+        "summary": "Prepare and introduce legislation consolidating core employment law into a clearer framework.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-f19774398b389fff",
+        "party": "National",
+        "topic": "Business",
+        "title": "Tell Government Once service",
+        "summary": "Let businesses update core details once through an NZBN-based service and securely share the changes with participating agencies and councils.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-6a69efe05e705947",
+        "party": "National",
+        "topic": "Business",
+        "title": "Coordinated and simplified business renewals",
+        "summary": "Coordinate business permit and licence renewals and introduce automatic or simplified renewals for suitable low-risk businesses with strong compliance records.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-4c512580bd80e867",
+        "party": "National",
+        "topic": "Business",
+        "title": "Reform alcohol-licensing applications and renewals",
+        "summary": "Simplify alcohol-licence applications and renewals, extend suitable renewal periods and reform fees.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-9620b0aebe1077ae",
+        "party": "National",
+        "topic": "Justice",
+        "title": "Allow accountants to administer statutory declarations",
+        "summary": "Allow eligible chartered accountants to administer statutory declarations with professional and identity safeguards.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-fb84fbf18a9fa769",
+        "party": "National",
+        "topic": "Business",
+        "title": "Digital-first business records and notices",
+        "summary": "Remove unjustified paper, physical-display, newspaper, fax and telex requirements where secure and accessible digital alternatives are suitable.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-487a66f2aae4277c",
+        "party": "National",
+        "topic": "Business",
+        "title": "Clearer small-business fire-safety guidance",
+        "summary": "Publish clearer guidance and templates for small-business fire-evacuation requirements and approved schemes.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-8a2c099953f9c4af",
+        "party": "National",
+        "topic": "Business",
+        "title": "Enforce government prompt-payment performance",
+        "summary": "Hold agencies accountable for slow payment and enforce fair payment terms through government procurement supply chains.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-0cc9c83f32314eb6",
+        "party": "National",
+        "topic": "Business",
+        "title": "Expand eInvoicing and prompt-payment code",
+        "summary": "Complete the industry-led prompt-payment programme and expand eInvoicing with business and accounting organisations.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-567300132331e37c",
+        "party": "National",
+        "topic": "Business",
+        "title": "Transparent and lower payment fees",
+        "summary": "Improve payment-fee transparency, monitor whether regulated savings reach merchants and support further evidence-based fee reductions.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-e8a24de80c9428c4",
+        "party": "National",
+        "topic": "Business",
+        "title": "Complete open banking and payments modernisation",
+        "summary": "Complete regulated open banking and the Reserve Bank payments-modernisation programme.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-139d4a13586595bf",
+        "party": "National",
+        "topic": "Consumer affairs",
+        "title": "Independent access to motor-vehicle repair information",
+        "summary": "Give independent vehicle repairers regulated access to manufacturers' repair information with safety, security and commercial safeguards.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-94c0ffd6a9f0707d",
+        "party": "National",
+        "topic": "Business",
+        "title": "Expand AI support for small businesses",
+        "summary": "Expand co-funded practical AI support for small businesses, including the AI Advisory Pilot.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-cf7adb2981432d6f",
+        "party": "National",
+        "topic": "Building and construction",
+        "title": "Reuse certified engineering and geotechnical reports",
+        "summary": "Require regulators to reuse current, relevant certified engineering and geotechnical reports where they remain fit for purpose.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-1caf57cc36b1c29e",
+        "party": "National",
+        "topic": "Trade",
+        "title": "Next 200 exporter support",
+        "summary": "Give 200 high-potential small and medium exporters intensive NZTE support, market intelligence, introductions and regulatory assistance.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-53d44c8cc8596239",
+        "party": "National",
+        "topic": "Trade",
+        "title": "AI-powered export navigator",
+        "summary": "Create official AI-assisted tools covering tariffs, rules of origin and market-access requirements.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-f6ba10339286136c",
+        "party": "National",
+        "topic": "Trade",
+        "title": "Trusted-exporter fast lane",
+        "summary": "Create a Secure Exports Scheme fast lane for eligible smaller exporters and reduce duplicated documentation.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-a08021a63c4302fc",
+        "party": "National",
+        "topic": "Business",
+        "title": "Keep Investment Boost",
+        "summary": "Retain the immediate 20% deduction for eligible productive assets for businesses of every size.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-2280440db2c04b70",
+        "party": "National",
+        "topic": "Building and construction",
+        "title": "Consolidate building-consent functions",
+        "summary": "Enable greater consolidation of building-consent functions and more consistent decisions.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-cfddac05b237ebcf",
+        "party": "National",
+        "topic": "Building and construction",
+        "title": "Halve Project Information Memorandum processing time",
+        "summary": "Reduce Project Information Memorandum processing time from 20 to 10 working days.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-a17b504cf5de6ee6",
+        "party": "National",
+        "topic": "Building and construction",
+        "title": "Proportionate building liability and home warranties",
+        "summary": "Introduce proportionate building liability backed by professional indemnity insurance and home warranties.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-61ccf292e3f5f2fa",
+        "party": "National",
+        "topic": "Building and construction",
+        "title": "Recognise trusted overseas building products",
+        "summary": "Expand recognition of trusted overseas building products and standards that meet New Zealand requirements.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-bd4a1b3cc57006bd",
+        "party": "National",
+        "topic": "Business",
+        "title": "Make capital raising easier for growing firms",
+        "summary": "Reform capital-market requirements so growing firms can raise equity and debt more easily while retaining investor protections.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-bba062a7bc55d575",
+        "party": "National",
+        "topic": "Business",
+        "title": "Connect businesses with international investment",
+        "summary": "Use Invest New Zealand to connect productive businesses with international investment, skills and commercial partners.",
+        "sourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261007-cameronbrewer",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-549ab0d6eaf97879",
+        "party": "National",
+        "topic": "Health",
+        "title": "Increase Pharmac medicines budget by $604 million",
+        "summary": "Provide a further $604 million uplift to Pharmac's medicines budget to fund new medicines and widen access to funded treatments.",
+        "sourceURL": "https://www.national.org.nz/news/261006-simeonbrown",
+        "dateAnnouncedOrVerified": "2026-10-06",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261006-simeonbrown",
+      "verifiedAt": "2026-10-06"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-de5ef77bcf7ce264",
+        "party": "National",
+        "topic": "Foreign affairs",
+        "title": "Reduce non-Pacific foreign aid to fund medicines",
+        "summary": "Reduce foreign aid and associated administration outside the Pacific by 10%, while protecting Pacific aid, to help fund medicines.",
+        "sourceURL": "https://www.national.org.nz/news/261006-simeonbrown",
+        "dateAnnouncedOrVerified": "2026-10-06",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261006-simeonbrown",
+      "verifiedAt": "2026-10-06"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-ce0130b23472fa6b",
+        "party": "National",
+        "topic": "Health",
+        "title": "Set a national clinical-trials target",
+        "summary": "Set a national target for clinical trials conducted in New Zealand.",
+        "sourceURL": "https://www.national.org.nz/news/261006-simeonbrown",
+        "dateAnnouncedOrVerified": "2026-10-06",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261006-simeonbrown",
+      "verifiedAt": "2026-10-06"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-2f0ed0627e317a34",
+        "party": "National",
+        "topic": "Health",
+        "title": "Unlock CAR-T cell therapy",
+        "summary": "Expand access to CAR-T cell therapy in New Zealand.",
+        "sourceURL": "https://www.national.org.nz/news/261006-simeonbrown",
+        "dateAnnouncedOrVerified": "2026-10-06",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261006-simeonbrown",
+      "verifiedAt": "2026-10-06"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-99cc95c4b03ee5c8",
+        "party": "National",
+        "topic": "Health",
+        "title": "Lower free bowel-screening age to 50",
+        "summary": "Lower the eligibility age for free bowel screening to 50 by 2029 and expand colonoscopy capacity.",
+        "sourceURL": "https://www.national.org.nz/news/261006-simeonbrown",
+        "dateAnnouncedOrVerified": "2026-10-06",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261006-simeonbrown",
+      "verifiedAt": "2026-10-06"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-1330f6c968c9e2fd",
+        "party": "National",
+        "topic": "Health",
+        "title": "Extend free breast screening to age 74",
+        "summary": "Complete the extension of free breast screening to age 74 by 2029.",
+        "sourceURL": "https://www.national.org.nz/news/261006-simeonbrown",
+        "dateAnnouncedOrVerified": "2026-10-06",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261006-simeonbrown",
+      "verifiedAt": "2026-10-06"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-93dd4c8d36128ab2",
+        "party": "National",
+        "topic": "Health",
+        "title": "Pilot prostate and lung cancer screening",
+        "summary": "Launch organised screening pilots for prostate and lung cancer to assess potential nationwide programmes.",
+        "sourceURL": "https://www.national.org.nz/news/261006-simeonbrown",
+        "dateAnnouncedOrVerified": "2026-10-06",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261006-simeonbrown",
+      "verifiedAt": "2026-10-06"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-23257e860ce447bb",
+        "party": "National",
+        "topic": "Health",
+        "title": "Free cervical screening for ages 25 to 69",
+        "summary": "Provide free cervical screening for women aged 25 to 69 from March 2027.",
+        "sourceURL": "https://www.national.org.nz/news/261006-simeonbrown",
+        "dateAnnouncedOrVerified": "2026-10-06",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261006-simeonbrown",
+      "verifiedAt": "2026-10-06"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-857f70166fed7b59",
+        "party": "National",
+        "topic": "Health",
+        "title": "Healthy Kiwis active-prescription programme",
+        "summary": "Offer active prescriptions through a Healthy Kiwis Programme and double participation by 2030.",
+        "sourceURL": "https://www.national.org.nz/news/261006-simeonbrown",
+        "dateAnnouncedOrVerified": "2026-10-06",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261006-simeonbrown",
+      "verifiedAt": "2026-10-06"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-170faa0cf833d8dd",
+        "party": "National",
+        "topic": "Transport",
+        "title": "Fund Belfast to Pegasus Motorway and Woodend Bypass",
+        "summary": "Commit $800 million in the first Budget to fully fund the motorway and bypass so construction can start in 2027.",
+        "sourceURL": "https://www.national.org.nz/news/261005-chrisbishop",
+        "dateAnnouncedOrVerified": "2026-10-05",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261005-chrisbishop",
+      "verifiedAt": "2026-10-05"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-27cf3144e86cdaa3",
+        "party": "Labour",
+        "topic": "Transport",
+        "title": "Right to repair for motor vehicles",
+        "summary": "Require vehicle manufacturers to give independent mechanics fair access to the manuals, software, tools and information needed to repair modern vehicles.",
+        "sourceURL": "https://www.labour.org.nz/news/release-a-fair-go-for-kiwi-drivers/",
+        "dateAnnouncedOrVerified": "2026-10-05",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-a-fair-go-for-kiwi-drivers/",
+      "verifiedAt": "2026-10-05"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-e6672078cdf46cb5",
+        "party": "Labour",
+        "topic": "Transport",
+        "title": "Weekly fuel-price reporting",
+        "summary": "Require the Commerce Commission to report weekly on fuel prices and whether falling wholesale costs are being passed on to drivers.",
+        "sourceURL": "https://www.labour.org.nz/news/release-a-fair-go-for-kiwi-drivers/",
+        "dateAnnouncedOrVerified": "2026-10-05",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-a-fair-go-for-kiwi-drivers/",
+      "verifiedAt": "2026-10-05"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-c5fce0dbfa7dfecb",
+        "party": "Labour",
+        "topic": "Transport",
+        "title": "Apply price-gouging law to fuel",
+        "summary": "Apply price-gouging rules to wholesale and retail fuel, allowing unfair pricing to be investigated and overcharges recovered.",
+        "sourceURL": "https://www.labour.org.nz/news/release-a-fair-go-for-kiwi-drivers/",
+        "dateAnnouncedOrVerified": "2026-10-05",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-a-fair-go-for-kiwi-drivers/",
+      "verifiedAt": "2026-10-05"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-c8aaa553df8f5df1",
+        "party": "Labour",
+        "topic": "Transport",
+        "title": "Fairer wholesale fuel access for independent stations",
+        "summary": "Give independent petrol stations fairer access to fuel supplies and stronger protection against restrictive contracts.",
+        "sourceURL": "https://www.labour.org.nz/news/release-a-fair-go-for-kiwi-drivers/",
+        "dateAnnouncedOrVerified": "2026-10-05",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-a-fair-go-for-kiwi-drivers/",
+      "verifiedAt": "2026-10-05"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-4a1b357ae07cd4db",
+        "party": "Labour",
+        "topic": "Transport",
+        "title": "Use surplus NZTA land for independent fuel and EV sites",
+        "summary": "Require NZTA to consider making surplus land available for independent unmanned petrol stations and EV chargers.",
+        "sourceURL": "https://www.labour.org.nz/news/release-a-fair-go-for-kiwi-drivers/",
+        "dateAnnouncedOrVerified": "2026-10-05",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-a-fair-go-for-kiwi-drivers/",
+      "verifiedAt": "2026-10-05"
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-4a2d44c709fbc055",
+        "party": "Green Party",
+        "topic": "Environment",
+        "title": "Remove ring-net fishing exemption in Hauraki Gulf",
+        "summary": "Immediately remove the ring-net fishing exemption from Hauraki Gulf High Protection Areas.",
+        "sourceURL": "https://www.greens.org.nz/greens_announce_plans_to_protect_the_hauraki_gulf",
+        "dateAnnouncedOrVerified": "2026-10-06",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.greens.org.nz/greens_announce_plans_to_protect_the_hauraki_gulf",
+      "verifiedAt": "2026-10-06"
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-c2673a497ce3b287",
+        "party": "Green Party",
+        "topic": "Environment",
+        "title": "Phase out bottom trawling starting with ecologically significant areas",
+        "summary": "Phase out bottom trawling, starting with seamounts and ecologically significant areas including the Hauraki Gulf.",
+        "sourceURL": "https://www.greens.org.nz/greens_announce_plans_to_protect_the_hauraki_gulf",
+        "dateAnnouncedOrVerified": "2026-10-06",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.greens.org.nz/greens_announce_plans_to_protect_the_hauraki_gulf",
+      "verifiedAt": "2026-10-06"
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-3318ffe2d748e1dd",
+        "party": "Green Party",
+        "topic": "Environment",
+        "title": "Protect 30% of Hauraki Gulf by 2030",
+        "summary": "Protect 30% of the Hauraki Gulf by 2030 as part of a plan to protect at least 30% of New Zealand's ocean.",
+        "sourceURL": "https://www.greens.org.nz/greens_announce_plans_to_protect_the_hauraki_gulf",
+        "dateAnnouncedOrVerified": "2026-10-06",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.greens.org.nz/greens_announce_plans_to_protect_the_hauraki_gulf",
+      "verifiedAt": "2026-10-06"
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-6466c1735d7f6284",
+        "party": "Green Party",
+        "topic": "Environment",
+        "title": "Resource iwi and hapū-led ocean protection",
+        "summary": "Embed kaitiakitanga Māori in marine management and resource iwi and hapū to lead ocean-protection work.",
+        "sourceURL": "https://www.greens.org.nz/greens_announce_plans_to_protect_the_hauraki_gulf",
+        "dateAnnouncedOrVerified": "2026-10-06",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.greens.org.nz/greens_announce_plans_to_protect_the_hauraki_gulf",
+      "verifiedAt": "2026-10-06"
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-9de9594e673c33e5",
+        "party": "Green Party",
+        "topic": "Environment",
+        "title": "Increase marine biosecurity resourcing",
+        "summary": "Increase resources for marine biosecurity.",
+        "sourceURL": "https://www.greens.org.nz/greens_announce_plans_to_protect_the_hauraki_gulf",
+        "dateAnnouncedOrVerified": "2026-10-06",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.greens.org.nz/greens_announce_plans_to_protect_the_hauraki_gulf",
+      "verifiedAt": "2026-10-06"
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-3b119192b565c8a4",
+        "party": "Green Party",
+        "topic": "Environment",
+        "title": "Cameras and mortality limits to reduce fisheries bycatch",
+        "summary": "Roll out cameras on fishing boats and set fisheries-related mortality limits to reduce bycatch.",
+        "sourceURL": "https://www.greens.org.nz/greens_announce_plans_to_protect_the_hauraki_gulf",
+        "dateAnnouncedOrVerified": "2026-10-06",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.greens.org.nz/greens_announce_plans_to_protect_the_hauraki_gulf",
+      "verifiedAt": "2026-10-06"
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-c4c4b00b427817c1",
+        "party": "Green Party",
+        "topic": "Environment",
+        "title": "Review Quota Management System for ecosystem health",
+        "summary": "Review the Quota Management System so fisheries can be managed according to whole-ecosystem health.",
+        "sourceURL": "https://www.greens.org.nz/greens_announce_plans_to_protect_the_hauraki_gulf",
+        "dateAnnouncedOrVerified": "2026-10-06",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.greens.org.nz/greens_announce_plans_to_protect_the_hauraki_gulf",
+      "verifiedAt": "2026-10-06"
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-cd1acd186788f8e9",
+        "party": "Green Party",
+        "topic": "Environment",
+        "title": "Stop Hauraki Gulf pollution at source",
+        "summary": "Strengthen wastewater-discharge rules and phase out synthetic nitrogen fertiliser to reduce pollution reaching the Hauraki Gulf.",
+        "sourceURL": "https://www.greens.org.nz/greens_announce_plans_to_protect_the_hauraki_gulf",
+        "dateAnnouncedOrVerified": "2026-10-06",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.greens.org.nz/greens_announce_plans_to_protect_the_hauraki_gulf",
+      "verifiedAt": "2026-10-06"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-9b5e500bfb152bfb",
+        "party": "ACT",
+        "topic": "Tax",
+        "title": "Remove charitable-donation tax-credit cap",
+        "summary": "Remove the $33,333 cap on tax benefits available for charitable donations.",
+        "sourceURL": "https://www.act.org.nz/news/act-will-remove-the-cap-on-generosity",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.act.org.nz/news/act-will-remove-the-cap-on-generosity",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-aa64c4e5e0bd3f56",
+        "party": "National",
+        "topic": "Welfare",
+        "title": "Random drug testing for work-ready Jobseekers",
+        "summary": "Start with 10,000 random tests in the first year, record a first failed test and require a clinical assessment after a second failure before ordinary obligations and sanctions apply.",
+        "sourceURL": "https://www.national.org.nz/news/261008-louiseupston",
+        "dateAnnouncedOrVerified": "2026-10-08",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261008-louiseupston",
+      "verifiedAt": "2026-10-08"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-a63b30b9bdec2579",
+        "party": "National",
+        "topic": "Welfare",
+        "title": "Earlier intensive support for long-term Jobseekers",
+        "summary": "Provide intensive work-focused support to 30,000 work-ready people who have received Jobseeker for more than a year.",
+        "sourceURL": "https://www.national.org.nz/news/261008-louiseupston",
+        "dateAnnouncedOrVerified": "2026-10-08",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261008-louiseupston",
+      "verifiedAt": "2026-10-08"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-c17f1b83c13556bf",
+        "party": "National",
+        "topic": "Welfare",
+        "title": "Lower Jobseeker rate after two years",
+        "summary": "From 1 April 2028, move people who received Jobseeker for two of the previous three years to a lower payment rate, with a smaller reduction for households with dependent children.",
+        "sourceURL": "https://www.national.org.nz/news/261008-louiseupston",
+        "dateAnnouncedOrVerified": "2026-10-08",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261008-louiseupston",
+      "verifiedAt": "2026-10-08"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-712f433502394fad",
+        "party": "National",
+        "topic": "Welfare",
+        "title": "Longer stand-down for repeated voluntary unemployment",
+        "summary": "Increase the non-entitlement period from 13 to 26 weeks for people who repeatedly leave work without good and sufficient reason.",
+        "sourceURL": "https://www.national.org.nz/news/261008-louiseupston",
+        "dateAnnouncedOrVerified": "2026-10-08",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261008-louiseupston",
+      "verifiedAt": "2026-10-08"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-847c3847ffe68861",
+        "party": "National",
+        "topic": "Welfare",
+        "title": "Five-year residence requirement for main benefits",
+        "summary": "From 1 April 2028, increase the minimum residence period for main-benefit eligibility from two years to five years.",
+        "sourceURL": "https://www.national.org.nz/news/261008-louiseupston",
+        "dateAnnouncedOrVerified": "2026-10-08",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261008-louiseupston",
+      "verifiedAt": "2026-10-08"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-0b9a7d4ea1562b72",
+        "party": "National",
+        "topic": "Agriculture",
+        "title": "Concessional loans for water storage",
+        "summary": "Commit $300 million in concessional loans for water storage, beginning with five prioritised projects.",
+        "sourceURL": "https://www.national.org.nz/news/261009-toddmcclay-1",
+        "dateAnnouncedOrVerified": "2026-10-09",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261009-toddmcclay-1",
+      "verifiedAt": "2026-10-09"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-0265680aabe32474",
+        "party": "National",
+        "topic": "Agriculture",
+        "title": "Long-term water infrastructure pipeline",
+        "summary": "Develop New Zealand's first long-term water infrastructure pipeline with growers, farmers, councils and iwi.",
+        "sourceURL": "https://www.national.org.nz/news/261009-toddmcclay-1",
+        "dateAnnouncedOrVerified": "2026-10-09",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261009-toddmcclay-1",
+      "verifiedAt": "2026-10-09"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-4a762aeb70f10d07",
+        "party": "National",
+        "topic": "Agriculture",
+        "title": "National Rural and Provincial Water Use Strategy",
+        "summary": "Publish a national rural and provincial water-use strategy in 2027, supported by a national storage register.",
+        "sourceURL": "https://www.national.org.nz/news/261009-toddmcclay-1",
+        "dateAnnouncedOrVerified": "2026-10-09",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261009-toddmcclay-1",
+      "verifiedAt": "2026-10-09"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-168467599483e7d4",
+        "party": "National",
+        "topic": "Agriculture",
+        "title": "National standard for lower-risk water storage",
+        "summary": "Introduce a national standard for on-farm and other lower-risk off-stream water storage.",
+        "sourceURL": "https://www.national.org.nz/news/261009-toddmcclay-1",
+        "dateAnnouncedOrVerified": "2026-10-09",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261009-toddmcclay-1",
+      "verifiedAt": "2026-10-09"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-09c81ae0d4e31f40",
+        "party": "National",
+        "topic": "Agriculture",
+        "title": "National irrigation consenting standard",
+        "summary": "Introduce a national irrigation standard to simplify consenting for farmers and growers.",
+        "sourceURL": "https://www.national.org.nz/news/261009-toddmcclay-1",
+        "dateAnnouncedOrVerified": "2026-10-09",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261009-toddmcclay-1",
+      "verifiedAt": "2026-10-09"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-a33e3b860eafff26",
+        "party": "National",
+        "topic": "Agriculture",
+        "title": "Fertiliser security agreements",
+        "summary": "Negotiate supply-security agreements with key fertiliser-exporting countries to limit disruption and export-restriction risks.",
+        "sourceURL": "https://www.national.org.nz/news/261009-toddmcclay-1",
+        "dateAnnouncedOrVerified": "2026-10-09",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261009-toddmcclay-1",
+      "verifiedAt": "2026-10-09"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-274f3bbc9a5fd43a",
+        "party": "National",
+        "topic": "Agriculture",
+        "title": "Critical Inputs Fund for domestic fertiliser",
+        "summary": "Create a $10 million fund to support long-term domestic nitrogen production and a transition from natural gas to electrification.",
+        "sourceURL": "https://www.national.org.nz/news/261009-toddmcclay-1",
+        "dateAnnouncedOrVerified": "2026-10-09",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261009-toddmcclay-1",
+      "verifiedAt": "2026-10-09"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-0bcd72d68c2a8219",
+        "party": "National",
+        "topic": "Environment",
+        "title": "New Waiheke marine reserve and larger Goat Island reserve",
+        "summary": "Establish a new marine reserve off Waiheke Island and expand Goat Island / Te Hāwere-a-Maki Marine Reserve.",
+        "sourceURL": "https://www.national.org.nz/news/261010-toddmcclay",
+        "dateAnnouncedOrVerified": "2026-10-10",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261010-toddmcclay",
+      "verifiedAt": "2026-10-10"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-26521e3a6505b9d6",
+        "party": "National",
+        "topic": "Environment",
+        "title": "No recreational fishing licence",
+        "summary": "Give recreational fishers a role in reforms and rule out a recreational fishing licence.",
+        "sourceURL": "https://www.national.org.nz/news/261010-toddmcclay",
+        "dateAnnouncedOrVerified": "2026-10-10",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261010-toddmcclay",
+      "verifiedAt": "2026-10-10"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-e32a448a8c9dac6e",
+        "party": "National",
+        "topic": "Environment",
+        "title": "Prevent commercial sale of marlin",
+        "summary": "Prohibit the commercial sale of marlin.",
+        "sourceURL": "https://www.national.org.nz/news/261010-toddmcclay",
+        "dateAnnouncedOrVerified": "2026-10-10",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261010-toddmcclay",
+      "verifiedAt": "2026-10-10"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-5d52e2999a083703",
+        "party": "National",
+        "topic": "Environment",
+        "title": "Ban commercial fishing in Hauraki Gulf protection areas",
+        "summary": "Ban commercial fishing in Hauraki Gulf High Protection Areas and review designated trawl corridors.",
+        "sourceURL": "https://www.national.org.nz/news/261010-toddmcclay",
+        "dateAnnouncedOrVerified": "2026-10-10",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261010-toddmcclay",
+      "verifiedAt": "2026-10-10"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-ff6d83e77792d96a",
+        "party": "National",
+        "topic": "Environment",
+        "title": "Fish Tech Innovation Fund",
+        "summary": "Create a $20 million fund for fisheries technology and innovation.",
+        "sourceURL": "https://www.national.org.nz/news/261010-toddmcclay",
+        "dateAnnouncedOrVerified": "2026-10-10",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261010-toddmcclay",
+      "verifiedAt": "2026-10-10"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-ef12f92e495f296a",
+        "party": "National",
+        "topic": "Environment",
+        "title": "Protect 50% of the EEZ by 2040",
+        "summary": "Preserve seamounts and aim to increase protected areas in the Exclusive Economic Zone from 32% to 50% by 2040.",
+        "sourceURL": "https://www.national.org.nz/news/261010-toddmcclay",
+        "dateAnnouncedOrVerified": "2026-10-10",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261010-toddmcclay",
+      "verifiedAt": "2026-10-10"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-3b0f25a7bae29e0c",
+        "party": "National",
+        "topic": "Environment",
+        "title": "Keep rockpool species collection ban",
+        "summary": "Retain the ban on taking shellfish and marine species from rockpools and strengthen penalties and enforcement.",
+        "sourceURL": "https://www.national.org.nz/news/261010-toddmcclay",
+        "dateAnnouncedOrVerified": "2026-10-10",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261010-toddmcclay",
+      "verifiedAt": "2026-10-10"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-72d0169fcd4a3bae",
+        "party": "National",
+        "topic": "Environment",
+        "title": "More honorary officers and catch-limit penalties",
+        "summary": "Increase Honorary Fisheries Officers to 200 and increase penalties and infringements for exceeding catch limits.",
+        "sourceURL": "https://www.national.org.nz/news/261010-toddmcclay",
+        "dateAnnouncedOrVerified": "2026-10-10",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261010-toddmcclay",
+      "verifiedAt": "2026-10-10"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-3e59569d9a4b17b1",
+        "party": "National",
+        "topic": "Education",
+        "title": "Require completion of Year 11",
+        "summary": "Require students to remain at school until they complete Year 11 or turn 16, whichever is later, unless an employment or training exemption applies.",
+        "sourceURL": "https://www.national.org.nz/news/261011-ericastanford",
+        "dateAnnouncedOrVerified": "2026-10-11",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261011-ericastanford",
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-c865581266df96f8",
+        "party": "National",
+        "topic": "Education",
+        "title": "Consistent school start and finish dates",
+        "summary": "Work with schools to establish nationally consistent start and finish dates.",
+        "sourceURL": "https://www.national.org.nz/news/261011-ericastanford",
+        "dateAnnouncedOrVerified": "2026-10-11",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261011-ericastanford",
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-b80d0cc685af061f",
+        "party": "National",
+        "topic": "Immigration",
+        "title": "Expedite visas for partners of New Zealand citizens",
+        "summary": "Prioritise and expedite work and visitor visas for partners of New Zealand citizens returning home.",
+        "sourceURL": "https://www.national.org.nz/news/261013-nicolawillis",
+        "dateAnnouncedOrVerified": "2026-10-13",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261013-nicolawillis",
+      "verifiedAt": "2026-10-13"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-42fde54caf2b62b3",
+        "party": "National",
+        "topic": "Transport",
+        "title": "Restore council choice over minimum parking requirements",
+        "summary": "End the blanket ban on minimum parking requirements and let councils require parking outside areas identified for intensification.",
+        "sourceURL": "https://www.national.org.nz/news/261014-simonwatts",
+        "dateAnnouncedOrVerified": "2026-10-14",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.national.org.nz/news/261014-simonwatts",
+      "verifiedAt": "2026-10-14"
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-85bfc118039b2068",
+        "party": "Green Party",
+        "topic": "Employment",
+        "title": "Jobs guarantee for young people",
+        "summary": "Guarantee a local community job pathway for every 16- to 24-year-old who wants work and has been unemployed for six months.",
+        "sourceURL": "https://www.greens.org.nz/greens_announce_jobs_guarantee_for_young_people",
+        "dateAnnouncedOrVerified": "2026-10-11",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.greens.org.nz/greens_announce_jobs_guarantee_for_young_people",
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-0fae80464794a8f4",
+        "party": "Green Party",
+        "topic": "Business",
+        "title": "Innovation Boost for productive and low-carbon investment",
+        "summary": "Refocus Investment Boost on productive investment aligned with industry objectives, decarbonisation and decent-work principles.",
+        "sourceURL": "https://www.greens.org.nz/greens_economic_development_plan_will_create_284_000_jobs",
+        "dateAnnouncedOrVerified": "2026-10-13",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.greens.org.nz/greens_economic_development_plan_will_create_284_000_jobs",
+      "verifiedAt": "2026-10-13"
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-088db231a4cd976f",
+        "party": "Green Party",
+        "topic": "Business",
+        "title": "Mission Fellowships for researchers and technical specialists",
+        "summary": "Create industry-objective-linked fellowships for early- and mid-career researchers and technical specialists.",
+        "sourceURL": "https://www.greens.org.nz/greens_economic_development_plan_will_create_284_000_jobs",
+        "dateAnnouncedOrVerified": "2026-10-13",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.greens.org.nz/greens_economic_development_plan_will_create_284_000_jobs",
+      "verifiedAt": "2026-10-13"
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-46f1b4fa0a9d50a5",
+        "party": "Green Party",
+        "topic": "Business",
+        "title": "Idea to Export commercialisation pathway",
+        "summary": "Create a coordinated public funding pathway from experimentation and research through validation, commercialisation and scaling.",
+        "sourceURL": "https://www.greens.org.nz/greens_economic_development_plan_will_create_284_000_jobs",
+        "dateAnnouncedOrVerified": "2026-10-13",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.greens.org.nz/greens_economic_development_plan_will_create_284_000_jobs",
+      "verifiedAt": "2026-10-13"
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-984c06be702808a4",
+        "party": "Green Party",
+        "topic": "Business",
+        "title": "Restore core science funding and target 3% R&D",
+        "summary": "Restore core science operating funding and work toward research-and-development spending of 3% of GDP.",
+        "sourceURL": "https://www.greens.org.nz/greens_economic_development_plan_will_create_284_000_jobs",
+        "dateAnnouncedOrVerified": "2026-10-13",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.greens.org.nz/greens_economic_development_plan_will_create_284_000_jobs",
+      "verifiedAt": "2026-10-13"
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-06fa89bfcacc34ba",
+        "party": "Green Party",
+        "topic": "Business",
+        "title": "Use public purchasing to back New Zealand-made solutions",
+        "summary": "Use government procurement to support suitable New Zealand-made products and services.",
+        "sourceURL": "https://www.greens.org.nz/greens_economic_development_plan_will_create_284_000_jobs",
+        "dateAnnouncedOrVerified": "2026-10-13",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.greens.org.nz/greens_economic_development_plan_will_create_284_000_jobs",
+      "verifiedAt": "2026-10-13"
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-4cf04a7cf855d19e",
+        "party": "Green Party",
+        "topic": "Business",
+        "title": "Increase tertiary research and vocational-excellence funding",
+        "summary": "Increase tertiary research, innovation and capacity funding, including restoring support for centres of vocational excellence.",
+        "sourceURL": "https://www.greens.org.nz/greens_economic_development_plan_will_create_284_000_jobs",
+        "dateAnnouncedOrVerified": "2026-10-13",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.greens.org.nz/greens_economic_development_plan_will_create_284_000_jobs",
+      "verifiedAt": "2026-10-13"
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-c8b522c10ef8868f",
+        "party": "Green Party",
+        "topic": "Technology",
+        "title": "Keep human and democratic decision-making above AI",
+        "summary": "Regulate artificial intelligence so it does not replace human and democratic decision-making.",
+        "sourceURL": "https://www.greens.org.nz/greens_will_regulate_ai_for_the_public_good",
+        "dateAnnouncedOrVerified": "2026-10-12",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.greens.org.nz/greens_will_regulate_ai_for_the_public_good",
+      "verifiedAt": "2026-10-12"
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-3597375ff18d77a6",
+        "party": "Green Party",
+        "topic": "Technology",
+        "title": "Protect data sovereignty and community consent in AI",
+        "summary": "Require artificial-intelligence systems to respect data sovereignty and community consent.",
+        "sourceURL": "https://www.greens.org.nz/greens_will_regulate_ai_for_the_public_good",
+        "dateAnnouncedOrVerified": "2026-10-12",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.greens.org.nz/greens_will_regulate_ai_for_the_public_good",
+      "verifiedAt": "2026-10-12"
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-447a591f5fdd7082",
+        "party": "Green Party",
+        "topic": "Technology",
+        "title": "Environmental limits for artificial intelligence",
+        "summary": "Require artificial-intelligence development and operation to remain within environmental limits.",
+        "sourceURL": "https://www.greens.org.nz/greens_will_regulate_ai_for_the_public_good",
+        "dateAnnouncedOrVerified": "2026-10-12",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.greens.org.nz/greens_will_regulate_ai_for_the_public_good",
+      "verifiedAt": "2026-10-12"
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-024e454afd2b6663",
+        "party": "Green Party",
+        "topic": "Technology",
+        "title": "Share the economic benefits of artificial intelligence",
+        "summary": "Regulate artificial intelligence so its benefits are shared rather than concentrated in large technology companies.",
+        "sourceURL": "https://www.greens.org.nz/greens_will_regulate_ai_for_the_public_good",
+        "dateAnnouncedOrVerified": "2026-10-12",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.greens.org.nz/greens_will_regulate_ai_for_the_public_good",
+      "verifiedAt": "2026-10-12"
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-9b0bbd1f29c2b363",
+        "party": "Green Party",
+        "topic": "Technology",
+        "title": "Transparent and accountable artificial intelligence",
+        "summary": "Require artificial-intelligence tools to be transparent, trustworthy and accountable.",
+        "sourceURL": "https://www.greens.org.nz/greens_will_regulate_ai_for_the_public_good",
+        "dateAnnouncedOrVerified": "2026-10-12",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.greens.org.nz/greens_will_regulate_ai_for_the_public_good",
+      "verifiedAt": "2026-10-12"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-53aea80582f7f0b8",
+        "party": "ACT",
+        "topic": "Government finance",
+        "title": "Cut $9.5 billion a year from government spending",
+        "summary": "Reduce annual spending outside welfare and protected frontline services by $9.5 billion once fully implemented.",
+        "sourceURL": "https://www.act.org.nz/fiscalplan",
+        "dateAnnouncedOrVerified": "2026-10-11",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.act.org.nz/fiscalplan",
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-28206439f1903966",
+        "party": "ACT",
+        "topic": "Government",
+        "title": "Reduce government to 19 departments and 18 ministers",
+        "summary": "Consolidate central government into 19 departments overseen by 18 ministers responsible for budgets and results.",
+        "sourceURL": "https://www.act.org.nz/fiscalplan",
+        "dateAnnouncedOrVerified": "2026-10-11",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.act.org.nz/fiscalplan",
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-ea1847ef0174e566",
+        "party": "ACT",
+        "topic": "Retirement savings",
+        "title": "Remove tax on KiwiSaver investment earnings",
+        "summary": "Remove tax on qualifying KiwiSaver investment earnings and discontinue the government contribution.",
+        "sourceURL": "https://www.act.org.nz/fiscalplan",
+        "dateAnnouncedOrVerified": "2026-10-11",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.act.org.nz/fiscalplan",
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-bde2b438deba31e9",
+        "party": "ACT",
+        "topic": "Climate",
+        "title": "Carbon Tax Refund",
+        "summary": "Return net revenue from Emissions Trading Scheme auctions to New Zealanders through a Carbon Tax Refund.",
+        "sourceURL": "https://www.act.org.nz/fiscalplan",
+        "dateAnnouncedOrVerified": "2026-10-11",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.act.org.nz/fiscalplan",
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-a4b2e58bf7a988d2",
+        "party": "ACT",
+        "topic": "Retirement",
+        "title": "Raise NZ Super age to 67 by 2035",
+        "summary": "Gradually increase the NZ Super eligibility age to 67 by 2035, with early access for people with long careers in physically demanding work.",
+        "sourceURL": "https://www.act.org.nz/fiscalplan",
+        "dateAnnouncedOrVerified": "2026-10-11",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.act.org.nz/fiscalplan",
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-771253d3916148e3",
+        "party": "ACT",
+        "topic": "Tax",
+        "title": "Abolish rental-property loss ring-fencing",
+        "summary": "Allow residential rental losses incurred after the policy starts to be offset against other taxable income for existing homes and new builds; previously ring-fenced losses retain current treatment.",
+        "sourceURL": "https://www.act.org.nz/news/act-to-abolish-another-of-labour-s-renters-taxes",
+        "dateAnnouncedOrVerified": "2026-10-14",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.act.org.nz/news/act-to-abolish-another-of-labour-s-renters-taxes",
+      "verifiedAt": "2026-10-14"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-d7c25bd0d1052ac5",
+        "party": "Labour",
+        "topic": "Banking",
+        "title": "Fair payment-system access for smaller financial providers",
+        "summary": "Require major banks to give smaller competitors fair access to payment systems and banking information.",
+        "sourceURL": "https://www.labour.org.nz/banking-for-everyone",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.labour.org.nz/banking-for-everyone",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-47c707b94f9d1c82",
+        "party": "Labour",
+        "topic": "Banking",
+        "title": "Digital banking licence",
+        "summary": "Create a proportionate licence and pathway for payments companies to develop into digital banks.",
+        "sourceURL": "https://www.labour.org.nz/banking-for-everyone",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.labour.org.nz/banking-for-everyone",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-b732726e6e51634b",
+        "party": "Labour",
+        "topic": "Banking",
+        "title": "Real-time payments for fintechs by 2030",
+        "summary": "Deliver secure 24-hour, seven-day real-time payments access for fintech providers by 2030.",
+        "sourceURL": "https://www.labour.org.nz/banking-for-everyone",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.labour.org.nz/banking-for-everyone",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-12419448f955df2b",
+        "party": "Labour",
+        "topic": "Banking",
+        "title": "Government-verified identity for provider switching",
+        "summary": "Let customers use government-verified identity when joining or switching banks and financial providers.",
+        "sourceURL": "https://www.labour.org.nz/banking-for-everyone",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.labour.org.nz/banking-for-everyone",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-b33ef45f99714dfe",
+        "party": "Labour",
+        "topic": "Banking",
+        "title": "Standardised car and life insurance terms",
+        "summary": "Introduce clearer, more standard terms for car and life insurance so customers can compare products.",
+        "sourceURL": "https://www.labour.org.nz/banking-for-everyone",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.labour.org.nz/banking-for-everyone",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-6b16f4c3ad0ab8c4",
+        "party": "Labour",
+        "topic": "Banking",
+        "title": "Keep Kiwibank fully New Zealand-owned",
+        "summary": "Retain 100% New Zealand public ownership of Kiwibank.",
+        "sourceURL": "https://www.labour.org.nz/banking-for-everyone",
+        "dateAnnouncedOrVerified": "2026-10-07",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.labour.org.nz/banking-for-everyone",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-4405b1c6860953e7",
+        "party": "Labour",
+        "topic": "Transport",
+        "title": "All-inclusive airline prices and pricing-data disclosure",
+        "summary": "Require airlines to display all-inclusive real-time fares and disclose when personal data is used to set a customer's price.",
+        "sourceURL": "https://www.labour.org.nz/better-deal-when-you-fly",
+        "dateAnnouncedOrVerified": "2026-10-08",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.labour.org.nz/better-deal-when-you-fly",
+      "verifiedAt": "2026-10-08"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-76fb950c6a00418f",
+        "party": "Labour",
+        "topic": "Transport",
+        "title": "Automatic airline refunds and delayed-baggage compensation",
+        "summary": "Require large airlines to provide automatic refunds for cancellations or significant changes and reimbursement for badly delayed baggage or undelivered paid services.",
+        "sourceURL": "https://www.labour.org.nz/better-deal-when-you-fly",
+        "dateAnnouncedOrVerified": "2026-10-08",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.labour.org.nz/better-deal-when-you-fly",
+      "verifiedAt": "2026-10-08"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-aab5360c82033e8e",
+        "party": "Labour",
+        "topic": "Transport",
+        "title": "Publish airline reliability performance",
+        "summary": "Require major airlines to publish data on delays, cancellations and baggage handling.",
+        "sourceURL": "https://www.labour.org.nz/better-deal-when-you-fly",
+        "dateAnnouncedOrVerified": "2026-10-08",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.labour.org.nz/better-deal-when-you-fly",
+      "verifiedAt": "2026-10-08"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-ff53cc07363f7067",
+        "party": "Labour",
+        "topic": "Transport",
+        "title": "Commerce Commission scrutiny of airline fares and profits",
+        "summary": "Require major airlines to provide the Commerce Commission with information on fares, costs and profits for regular reporting.",
+        "sourceURL": "https://www.labour.org.nz/better-deal-when-you-fly",
+        "dateAnnouncedOrVerified": "2026-10-08",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.labour.org.nz/better-deal-when-you-fly",
+      "verifiedAt": "2026-10-08"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-729d7a47c5238cd4",
+        "party": "Labour",
+        "topic": "Transport",
+        "title": "Fair airport access and interline rules for smaller airlines",
+        "summary": "Give airlines fair access to airport gates and ground services and update connection rules so smaller airlines can reach more passengers.",
+        "sourceURL": "https://www.labour.org.nz/better-deal-when-you-fly",
+        "dateAnnouncedOrVerified": "2026-10-08",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.labour.org.nz/better-deal-when-you-fly",
+      "verifiedAt": "2026-10-08"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-9e56cd5abb1ead24",
+        "party": "Labour",
+        "topic": "Transport",
+        "title": "Stop airport overcharging for parking and food",
+        "summary": "Regulate local airport monopoly pricing for parking, food and other services.",
+        "sourceURL": "https://www.labour.org.nz/better-deal-when-you-fly",
+        "dateAnnouncedOrVerified": "2026-10-08",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.labour.org.nz/better-deal-when-you-fly",
+      "verifiedAt": "2026-10-08"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-534e41052479d635",
+        "party": "Labour",
+        "topic": "Transport",
+        "title": "Lower-cost borrowing for regulated airport upgrades",
+        "summary": "Explore lower-cost borrowing options for regulated airports so terminal and runway investment puts less pressure on airfares.",
+        "sourceURL": "https://www.labour.org.nz/better-deal-when-you-fly",
+        "dateAnnouncedOrVerified": "2026-10-08",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.labour.org.nz/better-deal-when-you-fly",
+      "verifiedAt": "2026-10-08"
+    },
+    {
+      "input": {
+        "id": "nzpt-opportunity-party-76fee7e970d859d6",
+        "party": "Opportunity Party",
+        "topic": "Employment",
+        "title": "End sub-minimum wages for disabled workers",
+        "summary": "End rules that allow disabled employees to be paid less than the minimum wage.",
+        "sourceURL": "https://www.opportunity.org.nz/disability_statement",
+        "dateAnnouncedOrVerified": "2026-10-11",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.opportunity.org.nz/disability_statement",
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "input": {
+        "id": "nzpt-opportunity-party-85b8450102538bfc",
+        "party": "Opportunity Party",
+        "topic": "Employment",
+        "title": "Support disabled people to work without losing support",
+        "summary": "Reform support and benefit settings so disabled people can take paid work without unfair loss of essential assistance.",
+        "sourceURL": "https://www.opportunity.org.nz/disability_statement",
+        "dateAnnouncedOrVerified": "2026-10-11",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.opportunity.org.nz/disability_statement",
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "input": {
+        "id": "nzpt-opportunity-party-d360232f8e5744fa",
+        "party": "Opportunity Party",
+        "topic": "Disability",
+        "title": "Flexible support and respite for unpaid carers",
+        "summary": "Improve financial security, flexible work options, respite care and future planning for unpaid family and whānau carers.",
+        "sourceURL": "https://www.opportunity.org.nz/disability_statement",
+        "dateAnnouncedOrVerified": "2026-10-11",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.opportunity.org.nz/disability_statement",
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "input": {
+        "id": "nzpt-opportunity-party-e10f2190c7670c14",
+        "party": "Opportunity Party",
+        "topic": "Employment",
+        "title": "Reinstate 2020 pay-equity rules",
+        "summary": "Restore the Equal Pay Amendment Act 2020 rules for disability and care-support workers.",
+        "sourceURL": "https://www.opportunity.org.nz/disability_statement",
+        "dateAnnouncedOrVerified": "2026-10-11",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.opportunity.org.nz/disability_statement",
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "input": {
+        "id": "nzpt-opportunity-party-63f9e819729cee2d",
+        "party": "Opportunity Party",
+        "topic": "Disability",
+        "title": "Tell Us Once disability-support system",
+        "summary": "Create a privacy-controlled Tell Us Once process and better connect disability, health, education and ACC systems.",
+        "sourceURL": "https://www.opportunity.org.nz/disability_statement",
+        "dateAnnouncedOrVerified": "2026-10-11",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.opportunity.org.nz/disability_statement",
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "input": {
+        "id": "nzpt-opportunity-party-0e283294d8c32af6",
+        "party": "Opportunity Party",
+        "topic": "Disability",
+        "title": "Improve independent-living supports",
+        "summary": "Review and improve home modifications, equipment services, person-led planning and supported-living pathways.",
+        "sourceURL": "https://www.opportunity.org.nz/disability_statement",
+        "dateAnnouncedOrVerified": "2026-10-11",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.opportunity.org.nz/disability_statement",
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "input": {
+        "id": "nzpt-opportunity-party-4a6fbc5f787a9679",
+        "party": "Opportunity Party",
+        "topic": "Disability",
+        "title": "Accessible disability complaints and rights enforcement",
+        "summary": "Strengthen accessible complaints, appeals and remedies when disabled people's rights are not respected.",
+        "sourceURL": "https://www.opportunity.org.nz/disability_statement",
+        "dateAnnouncedOrVerified": "2026-10-11",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.opportunity.org.nz/disability_statement",
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "input": {
+        "id": "nzpt-opportunity-party-e0d5c53259b3b00f",
+        "party": "Opportunity Party",
+        "topic": "Disability",
+        "title": "Accessibility across housing, transport and services",
+        "summary": "Progressively remove barriers from housing, transport, public buildings, digital services and employment.",
+        "sourceURL": "https://www.opportunity.org.nz/disability_statement",
+        "dateAnnouncedOrVerified": "2026-10-11",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.opportunity.org.nz/disability_statement",
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "input": {
+        "id": "nzpt-opportunity-party-85cd830915f88f77",
+        "party": "Opportunity Party",
+        "topic": "Disability",
+        "title": "Disabled people to lead disability-policy oversight",
+        "summary": "Partner with disabled people's organisations and Māori disability leaders, support independent UNCRPD monitoring and report publicly on progress.",
+        "sourceURL": "https://www.opportunity.org.nz/disability_statement",
+        "dateAnnouncedOrVerified": "2026-10-11",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.opportunity.org.nz/disability_statement",
+      "verifiedAt": "2026-10-11"
     }
   ]
 }
