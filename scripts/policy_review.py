@@ -1,7 +1,8 @@
 """Fail-closed editorial gate. News is discovery, not publication evidence."""
 
-from datetime import date
+from datetime import date, datetime
 from urllib.parse import urlparse
+from zoneinfo import ZoneInfo
 
 
 PARTY_HOSTS = {
@@ -44,7 +45,9 @@ def apply_reviews(policies, review_document):
         if review["decision"] != "confirmed":
             raise ValueError("Publication requires official confirmation")
         checked = date.fromisoformat(review["verifiedAt"])
-        if checked > date.today():
+        # Policy dates are New Zealand calendar dates. GitHub-hosted runners use
+        # UTC, which is still the previous day during the NZ morning.
+        if checked > datetime.now(ZoneInfo("Pacific/Auckland")).date():
             raise ValueError("Verification date cannot be in the future")
         source = review["officialSourceURL"]
         parsed = urlparse(source)
