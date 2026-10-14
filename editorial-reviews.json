@@ -9093,6 +9093,234 @@
       "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
       "officialSourceURL": "https://www.opportunity.org.nz/disability_statement",
       "verifiedAt": "2026-10-11"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-d1ac6dfe04618a75",
+        "party": "New Zealand First",
+        "topic": "Public safety",
+        "title": "Ban public sales and private use of fireworks",
+        "summary": "Ban the retail sale, manufacture and importation of fireworks for public use while continuing to allow approved public displays.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_to_ban_public_sales_of_fireworks",
+        "dateAnnouncedOrVerified": "2026-10-15",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_to_ban_public_sales_of_fireworks",
+      "verifiedAt": "2026-10-15"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-2f1b111557882fca",
+        "party": "New Zealand First",
+        "topic": "Welfare",
+        "title": "Increase Working for Families in-work tax credit to $120 a week",
+        "summary": "Make the temporary $50 weekly in-work tax-credit increase permanent and add another $70, taking the total increase to $120 a week.",
+        "sourceURL": "https://www.nzfirst.nz/increasing_working_for_families_and_minimum_wage",
+        "dateAnnouncedOrVerified": "2026-10-15",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.nzfirst.nz/increasing_working_for_families_and_minimum_wage",
+      "verifiedAt": "2026-10-15"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-258df39a6f6206eb",
+        "party": "New Zealand First",
+        "topic": "Employment",
+        "title": "Increase the minimum wage by at least inflation each year",
+        "summary": "Increase the minimum wage by at least the rate of inflation in every year of the next term of government.",
+        "sourceURL": "https://www.nzfirst.nz/increasing_working_for_families_and_minimum_wage",
+        "dateAnnouncedOrVerified": "2026-10-15",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.nzfirst.nz/increasing_working_for_families_and_minimum_wage",
+      "verifiedAt": "2026-10-15"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-efd1becfae339ca9",
+        "party": "New Zealand First",
+        "topic": "Immigration",
+        "title": "Replace the Accredited Employer Work Visa with a Skilled Work Visa",
+        "summary": "Replace the Accredited Employer Work Visa with a shortage-led visa tied to a named occupation, region and demonstrated need.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_to_scrap_accredited_working_visa_model",
+        "dateAnnouncedOrVerified": "2026-10-15",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_to_scrap_accredited_working_visa_model",
+      "verifiedAt": "2026-10-15"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-4f26fc763de033c2",
+        "party": "New Zealand First",
+        "topic": "Housing",
+        "title": "Require infrastructure before fast-track housing approval",
+        "summary": "Require fast-track housing developers to show that necessary infrastructure exists, is funded and can be delivered, with council advice and panel powers to decline projects where it will not be available.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_policy_announcement_changes_to_fast_track_residential_approvals",
+        "dateAnnouncedOrVerified": "2026-10-15",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_policy_announcement_changes_to_fast_track_residential_approvals",
+      "verifiedAt": "2026-10-15"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-03993b6aee9261ae",
+        "party": "New Zealand First",
+        "topic": "Housing",
+        "title": "End unused preferential fast-track listings after 2028",
+        "summary": "Remove preferential fast-track access from currently listed housing projects that have not lodged an application by the end of 2028, requiring any later proposal to seek referral again.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_policy_announcement_changes_to_fast_track_residential_approvals",
+        "dateAnnouncedOrVerified": "2026-10-15",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_policy_announcement_changes_to_fast_track_residential_approvals",
+      "verifiedAt": "2026-10-15"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-58dd2dbfb04de5d4",
+        "party": "New Zealand First",
+        "topic": "Housing",
+        "title": "Housing Minister to decide housing fast-track referrals",
+        "summary": "Make the Minister for Housing responsible for referral decisions involving fast-track housing projects.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_policy_announcement_changes_to_fast_track_residential_approvals",
+        "dateAnnouncedOrVerified": "2026-10-15",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_policy_announcement_changes_to_fast_track_residential_approvals",
+      "verifiedAt": "2026-10-15"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-a112c5903ef0ee05",
+        "party": "Labour",
+        "topic": "Education",
+        "title": "Affordable school uniform requirements",
+        "summary": "Require schools to limit compulsory branded uniform items, allow qualifying generic alternatives, consider affordability and publish uniform costs.",
+        "sourceURL": "https://www.labour.org.nz/news/release-labour-will-cut-the-cost-of-getting-kids-back-to-school/",
+        "dateAnnouncedOrVerified": "2026-10-15",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-labour-will-cut-the-cost-of-getting-kids-back-to-school/",
+      "verifiedAt": "2026-10-15"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-6a647a19b645d237",
+        "party": "Labour",
+        "topic": "Education",
+        "title": "Restore fresh locally made school lunches",
+        "summary": "Restore fresh, locally made school lunches from Term 1 of 2028.",
+        "sourceURL": "https://www.labour.org.nz/news/release-labour-will-cut-the-cost-of-getting-kids-back-to-school/",
+        "dateAnnouncedOrVerified": "2026-10-15",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-labour-will-cut-the-cost-of-getting-kids-back-to-school/",
+      "verifiedAt": "2026-10-15"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-c595cec0705df7e3",
+        "party": "Labour",
+        "topic": "Education",
+        "title": "Restore cancelled rural school bus routes where possible",
+        "summary": "Restore the 43 cancelled rural school-bus routes where possible and work with communities where routes can no longer be reinstated.",
+        "sourceURL": "https://www.labour.org.nz/news/release-labour-will-cut-the-cost-of-getting-kids-back-to-school/",
+        "dateAnnouncedOrVerified": "2026-10-15",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-labour-will-cut-the-cost-of-getting-kids-back-to-school/",
+      "verifiedAt": "2026-10-15"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-abbf45bb542c6de2",
+        "party": "Labour",
+        "topic": "Business",
+        "title": "Redirect up to $50 million a year into Elevate",
+        "summary": "Redirect up to $50 million a year of the Government's contribution to the NZ Super Fund into Elevate to help innovative New Zealand businesses expand and employ people domestically.",
+        "sourceURL": "https://www.labour.org.nz/news/release-labour-s-plan-to-grow-the-economy-from-the-grassroots-up/",
+        "dateAnnouncedOrVerified": "2026-10-15",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-labour-s-plan-to-grow-the-economy-from-the-grassroots-up/",
+      "verifiedAt": "2026-10-15"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-f56ffa40cf1c7127",
+        "party": "Labour",
+        "topic": "Business",
+        "title": "Help small businesses and start-ups use artificial intelligence",
+        "summary": "Help small businesses and start-ups adopt artificial-intelligence tools intended to save time and improve productivity.",
+        "sourceURL": "https://www.labour.org.nz/news/release-labour-s-plan-to-grow-the-economy-from-the-grassroots-up/",
+        "dateAnnouncedOrVerified": "2026-10-15",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Commitment confirmed against the cited official party announcement; wording is a neutral, separately rateable summary of the stated commitment.",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-labour-s-plan-to-grow-the-economy-from-the-grassroots-up/",
+      "verifiedAt": "2026-10-15"
     }
   ]
 }
