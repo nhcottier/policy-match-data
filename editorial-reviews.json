@@ -2204,9 +2204,12 @@
         "supersededByPolicyID": null
       },
       "decision": "confirmed",
-      "reason": "Core wording cross-referenced against official party material in the 2026-09-16 audit; package detail is not exhaustive.",
-      "officialSourceURL": "https://www.act.org.nz/affordable-uniforms",
-      "verifiedAt": "2026-09-16"
+      "reason": "Updated against the cited official ACT source to retain the newly confirmed scope, amount and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26",
+      "updates": {
+        "summary": "Limit compulsory branded school-uniform items and allow families to buy generic basics from ordinary retailers."
+      }
     },
     {
       "input": {
@@ -2223,9 +2226,12 @@
         "supersededByPolicyID": null
       },
       "decision": "confirmed",
-      "reason": "Core wording cross-referenced against official party material in the 2026-09-16 audit; package detail is not exhaustive.",
-      "officialSourceURL": "https://www.act.org.nz/local_tourism_dividend",
-      "verifiedAt": "2026-09-16"
+      "reason": "Updated against the cited official ACT source to retain the newly confirmed scope, amount and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26",
+      "updates": {
+        "summary": "Pay councils $1 per commercial guest night from existing revenue, without a new bed tax, to help fund visitor-related infrastructure."
+      }
     },
     {
       "input": {
@@ -2264,9 +2270,12 @@
         "supersededByPolicyID": null
       },
       "decision": "confirmed",
-      "reason": "Core wording cross-referenced against official party material in the 2026-09-16 audit; package detail is not exhaustive.",
-      "officialSourceURL": "https://www.act.org.nz/unlocking-new-zealands-digital-economy",
-      "verifiedAt": "2026-09-16"
+      "reason": "Updated against the cited official ACT source to retain the newly confirmed scope, amount and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/news/how-act-will-unlock-the-digital-economy",
+      "verifiedAt": "2026-10-24",
+      "updates": {
+        "summary": "Coordinate ministerial responsibility across digital-economy work programmes and remove regulatory barriers to digital business, innovation and investment."
+      }
     },
     {
       "input": {
@@ -2443,9 +2452,12 @@
         "supersededByPolicyID": null
       },
       "decision": "confirmed",
-      "reason": "Core wording cross-referenced against official party material in the 2026-09-16 audit; package detail is not exhaustive.",
-      "officialSourceURL": "https://www.act.org.nz/burglary",
-      "verifiedAt": "2026-09-16"
+      "reason": "Updated against the cited official ACT source to retain the newly confirmed scope, amount and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26",
+      "updates": {
+        "summary": "Require at least three years’ imprisonment without parole for a third burglary conviction."
+      }
     },
     {
       "input": {
@@ -2522,11 +2534,11 @@
         "supersededByPolicyID": null
       },
       "decision": "confirmed",
-      "reason": "Publish only the corrected or narrowed wording supported by the official source.",
-      "officialSourceURL": "https://www.act.org.nz/a-starship-for-cancer",
-      "verifiedAt": "2026-09-16",
+      "reason": "Updated against the cited official ACT source to retain the newly confirmed scope, amount and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/news/the-future-of-health",
+      "verifiedAt": "2026-10-23",
       "updates": {
-        "summary": "Support National Cancer Centre campuses in Auckland and Christchurch, bringing cancer treatment, research, clinical trials and specialist expertise together."
+        "summary": "Establish National Cancer Centre campuses in Auckland and Christchurch, subject to a business case, backed by an approximately $2 billion fiscal contingency and an independent philanthropic foundation."
       },
       "replacementID": "nzpt-act-369bd37d2bfa8cc0-review-20260916"
     },
@@ -2545,11 +2557,11 @@
         "supersededByPolicyID": null
       },
       "decision": "confirmed",
-      "reason": "The Pharmacy First announcement gives the specific clinical scope of the existing pharmacy policy; the stable ID is retained.",
-      "officialSourceURL": "https://www.act.org.nz/news/your-pharmacist-should-be-your-first-stop",
-      "verifiedAt": "2026-09-20",
+      "reason": "Updated against the cited official ACT source to retain the newly confirmed scope, amount and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/news/the-future-of-health",
+      "verifiedAt": "2026-10-23",
       "updates": {
-        "summary": "Allow pharmacists to treat more everyday conditions and manage more stable long-term conditions without a GP appointment."
+        "summary": "Fund pharmacists to provide medication reviews, appropriate blood tests and routine monitoring, with information shared with GPs, alongside more routine medicines and minor-ailment care."
       }
     },
     {
@@ -2586,9 +2598,12 @@
         "supersededByPolicyID": null
       },
       "decision": "confirmed",
-      "reason": "Core wording cross-referenced against official party material in the 2026-09-16 audit; package detail is not exhaustive.",
-      "officialSourceURL": "https://www.act.org.nz/closing-medicines-gap",
-      "verifiedAt": "2026-09-16"
+      "reason": "Updated against the cited official ACT source to retain the newly confirmed scope, amount and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/news/the-future-of-health",
+      "verifiedAt": "2026-10-23",
+      "updates": {
+        "summary": "Increase medicines’ share of the health budget by one percentage point each year until it reaches Australia’s level in 2033."
+      }
     },
     {
       "input": {
@@ -2643,9 +2658,12 @@
         "supersededByPolicyID": null
       },
       "decision": "confirmed",
-      "reason": "Core wording cross-referenced against official party material in the 2026-09-16 audit; package detail is not exhaustive.",
-      "officialSourceURL": "https://www.act.org.nz/one-law-for-all",
-      "verifiedAt": "2026-09-16"
+      "reason": "Updated against the cited official ACT source to retain the newly confirmed scope, amount and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26",
+      "updates": {
+        "summary": "Add parliamentary sovereignty, the rule of law and equality before the law to the Constitution Act, and add property rights to the New Zealand Bill of Rights Act."
+      }
     },
     {
       "input": {
@@ -2840,9 +2858,12 @@
         "supersededByPolicyID": null
       },
       "decision": "confirmed",
-      "reason": "Core wording cross-referenced against official party material in the 2026-09-16 audit; package detail is not exhaustive.",
-      "officialSourceURL": "https://www.act.org.nz/equal-treatment-at-universities",
-      "verifiedAt": "2026-09-16"
+      "reason": "Updated against the cited official ACT source to retain the newly confirmed scope, amount and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26",
+      "updates": {
+        "summary": "Require publicly funded university support to be based on merit or need rather than race, while allowing privately funded targeted scholarships."
+      }
     },
     {
       "input": {
@@ -5100,9 +5121,12 @@
         "supersededByPolicyID": null
       },
       "decision": "confirmed",
-      "officialSourceURL": "https://www.act.org.nz/make-farming-fun-again",
-      "verifiedAt": "2026-09-20",
-      "reason": "The direct official party source explicitly states this distinct, rateable election commitment."
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26",
+      "reason": "Updated against the cited official ACT source to retain the newly confirmed scope, amount and qualifications.",
+      "updates": {
+        "summary": "Set illegal-dumping fines at $1,000 and $2,000 for repeat offenders."
+      }
     },
     {
       "input": {
@@ -8577,9 +8601,12 @@
         "supersededByPolicyID": null
       },
       "decision": "confirmed",
-      "reason": "Commitment confirmed against the cited official party announcement or policy page; wording is a neutral, separately rateable summary of the stated commitment.",
-      "officialSourceURL": "https://www.act.org.nz/fiscalplan",
-      "verifiedAt": "2026-10-11"
+      "reason": "Updated against the cited official ACT source to retain the newly confirmed scope, amount and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26",
+      "updates": {
+        "summary": "Deliver $22 billion of savings over four years, reaching $9.5 billion annually once fully implemented, outside welfare and protected frontline services."
+      }
     },
     {
       "input": {
@@ -10879,6 +10906,2001 @@
       "reason": "Commitment confirmed against the cited official party source; wording is a neutral, separately rateable summary of the stated commitment.",
       "officialSourceURL": "https://www.act.org.nz/news/record-retail-theft-charges-show-why-security-guards-need-real-powers",
       "verifiedAt": "2026-10-21"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-81946c791a044fad",
+        "party": "Labour",
+        "topic": "Education",
+        "title": "1,000 additional teacher aides",
+        "summary": "Invest $80 million over four years for 1,000 additional teacher aides, simplify school funding for greater certainty and follow up the Highest Needs Review to improve access to learning support.",
+        "sourceURL": "https://www.labour.org.nz/news/release-labour-to-provide-more-help-in-the-classroom/",
+        "dateAnnouncedOrVerified": "2026-10-22",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official Labour source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-labour-to-provide-more-help-in-the-classroom/",
+      "verifiedAt": "2026-10-22"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-7176c238feaec52b",
+        "party": "National",
+        "topic": "Education",
+        "title": "Financial literacy in the school curriculum",
+        "summary": "Ensure financial literacy is part of the school curriculum.",
+        "sourceURL": "https://www.national.org.nz/news/20261024-parents",
+        "dateAnnouncedOrVerified": "2026-10-24",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official National source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.national.org.nz/news/20261024-parents",
+      "verifiedAt": "2026-10-24"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-725c52967e5e87c5",
+        "party": "National",
+        "topic": "Banking",
+        "title": "Easier child bank-account opening",
+        "summary": "Progress Anti-Money Laundering law changes to make opening a child bank account simpler for parents.",
+        "sourceURL": "https://www.national.org.nz/news/20261024-parents",
+        "dateAnnouncedOrVerified": "2026-10-24",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official National source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.national.org.nz/news/20261024-parents",
+      "verifiedAt": "2026-10-24"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-7324ac5c143a10f9",
+        "party": "National",
+        "topic": "Health",
+        "title": "Three-day postnatal stays",
+        "summary": "Roll out three-day postnatal stays for mothers and newborns.",
+        "sourceURL": "https://www.national.org.nz/news/20261024-parents",
+        "dateAnnouncedOrVerified": "2026-10-24",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official National source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.national.org.nz/news/20261024-parents",
+      "verifiedAt": "2026-10-24"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-2af7db38edab98a6",
+        "party": "National",
+        "topic": "Housing",
+        "title": "Reserve Housing Flexible Fund places for seniors",
+        "summary": "Ring-fence at least 20% of places funded through the Housing Flexible Fund for seniors housing.",
+        "sourceURL": "https://www.national.org.nz/news/20261022-retirement",
+        "dateAnnouncedOrVerified": "2026-10-22",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official National source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.national.org.nz/news/20261022-retirement",
+      "verifiedAt": "2026-10-22"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-623a1fd15ebacfda",
+        "party": "National",
+        "topic": "Housing",
+        "title": "Expand granny-flat building rules",
+        "summary": "Extend and simplify the granny-flat rules so more granny flats can be built faster and at lower cost.",
+        "sourceURL": "https://www.national.org.nz/news/20261022-retirement",
+        "dateAnnouncedOrVerified": "2026-10-22",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official National source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.national.org.nz/news/20261022-retirement",
+      "verifiedAt": "2026-10-22"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-1930bc85f38fc7b4",
+        "party": "National",
+        "topic": "Housing",
+        "title": "Extend granny-flat rules to tiny homes",
+        "summary": "Extend the simplified granny-flat building rules to tiny homes.",
+        "sourceURL": "https://www.national.org.nz/news/20261022-retirement",
+        "dateAnnouncedOrVerified": "2026-10-22",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official National source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.national.org.nz/news/20261022-retirement",
+      "verifiedAt": "2026-10-22"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-c10ad79bac2c1823",
+        "party": "National",
+        "topic": "Seniors",
+        "title": "0800 Seniors helpline",
+        "summary": "Establish a single free 0800 Seniors helpline to help older people navigate government services and entitlements.",
+        "sourceURL": "https://www.national.org.nz/news/20261022-retirement",
+        "dateAnnouncedOrVerified": "2026-10-22",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official National source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.national.org.nz/news/20261022-retirement",
+      "verifiedAt": "2026-10-22"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-897d53501e1dcbc6",
+        "party": "National",
+        "topic": "Seniors",
+        "title": "Review Enduring Powers of Attorney protections",
+        "summary": "Review the Enduring Powers of Attorney framework and consider law changes to better protect seniors from elder abuse and financial exploitation.",
+        "sourceURL": "https://www.national.org.nz/news/20261022-retirement",
+        "dateAnnouncedOrVerified": "2026-10-22",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official National source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.national.org.nz/news/20261022-retirement",
+      "verifiedAt": "2026-10-22"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-072a767472fdde6e",
+        "party": "National",
+        "topic": "Education",
+        "title": "Expand the Maths Acceleration Programme",
+        "summary": "Add 40,000 students over three years to the Years 7-10 Maths Acceleration Programme, reaching about 128,200 students by 2029.",
+        "sourceURL": "https://www.national.org.nz/news/20261021-christopherluxon",
+        "dateAnnouncedOrVerified": "2026-10-21",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official National source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.national.org.nz/news/20261021-christopherluxon",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-0ad6f6bfb1f3babc",
+        "party": "National",
+        "topic": "Education",
+        "title": "Retain the school phone ban",
+        "summary": "Keep the ban on student mobile-phone use in schools.",
+        "sourceURL": "https://www.national.org.nz/news/20261021-christopherluxon",
+        "dateAnnouncedOrVerified": "2026-10-21",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official National source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.national.org.nz/news/20261021-christopherluxon",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-2354a48b0dd11302",
+        "party": "National",
+        "topic": "Online safety",
+        "title": "Advance the Online Safety Bill",
+        "summary": "Pass the first reading of the Online Safety (Minimum Age and Child Safety Risk Assessment) Bill and progress it to select committee.",
+        "sourceURL": "https://www.national.org.nz/news/20261025-100-day-plan",
+        "dateAnnouncedOrVerified": "2026-10-25",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official National source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.national.org.nz/news/20261025-100-day-plan",
+      "verifiedAt": "2026-10-25"
+    },
+    {
+      "input": {
+        "id": "nzpt-national-205e8ba77ee1d83b",
+        "party": "National",
+        "topic": "Law and order",
+        "title": "Ban taxpayer funding for gangs",
+        "summary": "Adopt legislation preventing taxpayer money from being used to fund gangs.",
+        "sourceURL": "https://www.national.org.nz/news/20261025-100-day-plan",
+        "dateAnnouncedOrVerified": "2026-10-25",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official National source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.national.org.nz/news/20261025-100-day-plan",
+      "verifiedAt": "2026-10-25"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-7bd2f55a444e0bbc",
+        "party": "New Zealand First",
+        "topic": "Business tax",
+        "title": "50% first-year accelerated depreciation",
+        "summary": "Allow manufacturing and targeted export-sector businesses to deduct 50% in the first year for new plant, machinery and equipment.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_policy_announcement_50_targeted_accelerated_depreciation_for_manufacturing_and_export_sector",
+        "dateAnnouncedOrVerified": "2026-10-23",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official New Zealand First source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_policy_announcement_50_targeted_accelerated_depreciation_for_manufacturing_and_export_sector",
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-beb7636adb542df5",
+        "party": "New Zealand First",
+        "topic": "Climate",
+        "title": "Remove ETS costs from petrol and diesel",
+        "summary": "Remove Emissions Trading Scheme costs from fuel, which the party estimates would reduce petrol by 12 cents a litre and diesel by 14 cents.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_to_remove_climate_tax_from_fuel",
+        "dateAnnouncedOrVerified": "2026-10-24",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official New Zealand First source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_to_remove_climate_tax_from_fuel",
+      "verifiedAt": "2026-10-24"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-af006ee6057e6c9e",
+        "party": "New Zealand First",
+        "topic": "Law and order",
+        "title": "Dedicated organised-crime agency",
+        "summary": "Establish a dedicated agency and responsible minister to dismantle organised and transnational criminal networks.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+        "dateAnnouncedOrVerified": "2026-10-22",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official New Zealand First source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+      "verifiedAt": "2026-10-22"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-4e96a67c8f238a73",
+        "party": "New Zealand First",
+        "topic": "Law and order",
+        "title": "Replace the Serious Fraud Office with a Police division",
+        "summary": "Abolish the Serious Fraud Office and replace it with a specialised division inside New Zealand Police.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+        "dateAnnouncedOrVerified": "2026-10-22",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official New Zealand First source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+      "verifiedAt": "2026-10-22"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-f5d6d3b663f86425",
+        "party": "New Zealand First",
+        "topic": "Sentencing",
+        "title": "Mandatory minimum sentences for serious offending",
+        "summary": "Increase the use of mandatory minimum sentences for serious violent and sexual offenders.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+        "dateAnnouncedOrVerified": "2026-10-22",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official New Zealand First source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+      "verifiedAt": "2026-10-22"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-b3624924a00c1e41",
+        "party": "New Zealand First",
+        "topic": "Victims",
+        "title": "State-funded immediate victim reparation",
+        "summary": "Have the state pay immediate reparation to victims and recover the money from offenders.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+        "dateAnnouncedOrVerified": "2026-10-22",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official New Zealand First source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+      "verifiedAt": "2026-10-22"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-27467bc74bdafc04",
+        "party": "New Zealand First",
+        "topic": "Sentencing",
+        "title": "Increase maximum sentences for attempted murder and grievous harm",
+        "summary": "Raise the maximum sentence for attempted murder and wounding with intent to cause grievous bodily harm from 14 to 25 years.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+        "dateAnnouncedOrVerified": "2026-10-22",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official New Zealand First source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+      "verifiedAt": "2026-10-22"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-d6e6a8be44a1f987",
+        "party": "New Zealand First",
+        "topic": "Sentencing",
+        "title": "Degrees of murder regime",
+        "summary": "Create first-, second- and third-degree murder categories with specified life sentences and non-parole periods.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+        "dateAnnouncedOrVerified": "2026-10-22",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official New Zealand First source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+      "verifiedAt": "2026-10-22"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-78b0d4b1b61a9d2c",
+        "party": "New Zealand First",
+        "topic": "Sentencing",
+        "title": "Cap most sentence discounts at 10%",
+        "summary": "Limit sentencing discounts other than a guilty plea to 10%, while retaining a maximum guilty-plea discount of 25%.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+        "dateAnnouncedOrVerified": "2026-10-22",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official New Zealand First source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+      "verifiedAt": "2026-10-22"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-dddd85b0934205d5",
+        "party": "New Zealand First",
+        "topic": "Parole",
+        "title": "Raise standard parole eligibility to 75%",
+        "summary": "Require long-term offenders to serve 75% of their sentence before standard parole eligibility and require people convicted of murder to be assessed as low risk before release.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+        "dateAnnouncedOrVerified": "2026-10-22",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official New Zealand First source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+      "verifiedAt": "2026-10-22"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-ef927da3cd89e55f",
+        "party": "New Zealand First",
+        "topic": "Sentencing",
+        "title": "Eight-year non-parole minimum for fatal coward punches",
+        "summary": "Require an eight-year minimum non-parole period for a coward punch causing death.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+        "dateAnnouncedOrVerified": "2026-10-22",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official New Zealand First source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+      "verifiedAt": "2026-10-22"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-107a6398ef16c531",
+        "party": "New Zealand First",
+        "topic": "Transport enforcement",
+        "title": "Review transport penalty settings",
+        "summary": "Review transport fines, demerits and court requirements for consistency and effectiveness.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+        "dateAnnouncedOrVerified": "2026-10-22",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official New Zealand First source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+      "verifiedAt": "2026-10-22"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-de7be242c59f3fba",
+        "party": "New Zealand First",
+        "topic": "Justice",
+        "title": "Oppose extending the Clean Slate law",
+        "summary": "Oppose any further extension of the Clean Slate law.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+        "dateAnnouncedOrVerified": "2026-10-22",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official New Zealand First source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+      "verifiedAt": "2026-10-22"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-128f562f65a358bf",
+        "party": "New Zealand First",
+        "topic": "Courts",
+        "title": "Publish sentencing notes within 72 hours",
+        "summary": "Require District Courts to proactively publish sentencing notes within 72 hours.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+        "dateAnnouncedOrVerified": "2026-10-22",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official New Zealand First source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+      "verifiedAt": "2026-10-22"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-b62d5eb52e4bb974",
+        "party": "New Zealand First",
+        "topic": "Courts",
+        "title": "Restrict final name suppression",
+        "summary": "Limit final name suppression to extreme cases.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+        "dateAnnouncedOrVerified": "2026-10-22",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official New Zealand First source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+      "verifiedAt": "2026-10-22"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-271da8a6dd18c431",
+        "party": "New Zealand First",
+        "topic": "Burglary",
+        "title": "Treat home burglary as aggravated burglary",
+        "summary": "Treat burglary of a home or private dwelling in the same way as aggravated burglary or home invasion.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+        "dateAnnouncedOrVerified": "2026-10-22",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official New Zealand First source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+      "verifiedAt": "2026-10-22"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-5fe38323f3673377",
+        "party": "New Zealand First",
+        "topic": "Self-defence",
+        "title": "Stronger safeguards for home and business self-defence",
+        "summary": "Change Police and prosecution guidance so people who use excessive force while defending themselves or others in a home or business are treated as victims unless there is overwhelming evidence otherwise, and require Solicitor-General review before prosecution.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+        "dateAnnouncedOrVerified": "2026-10-22",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official New Zealand First source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+      "verifiedAt": "2026-10-22"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-df88d55b7809fece",
+        "party": "New Zealand First",
+        "topic": "Self-defence",
+        "title": "Investigate Castle Doctrine and Stand Your Ground laws",
+        "summary": "Investigate implementing Castle Doctrine and Stand Your Ground protections for people defending themselves and their property.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+        "dateAnnouncedOrVerified": "2026-10-22",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official New Zealand First source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+      "verifiedAt": "2026-10-22"
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-d4b57c9dd40cde71",
+        "party": "Green Party",
+        "topic": "Government finance",
+        "title": "Operating allowances of $4.5b to $4.7b",
+        "summary": "Set future government operating allowances at $4.5 billion to $4.7 billion a year during the forecast period.",
+        "sourceURL": "https://www.greens.org.nz/greens_fiscal_plan_builds_real_economic_resilience_to_lower_cost_of_living_and_stimulate_64_000_new_jobs",
+        "dateAnnouncedOrVerified": "2026-10-23",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official Green Party source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.greens.org.nz/greens_fiscal_plan_builds_real_economic_resilience_to_lower_cost_of_living_and_stimulate_64_000_new_jobs",
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-01653131b9197fb0",
+        "party": "Green Party",
+        "topic": "Government finance",
+        "title": "Green fiscal targets",
+        "summary": "Return the operating balance to a $0.4 billion surplus in 2029/30, with net core Crown debt at 44% of GDP by 2030/31 and Crown expenses and revenue near 40% of GDP.",
+        "sourceURL": "https://www.greens.org.nz/greens_fiscal_plan_builds_real_economic_resilience_to_lower_cost_of_living_and_stimulate_64_000_new_jobs",
+        "dateAnnouncedOrVerified": "2026-10-23",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official Green Party source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.greens.org.nz/greens_fiscal_plan_builds_real_economic_resilience_to_lower_cost_of_living_and_stimulate_64_000_new_jobs",
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-f87e10a8e1ce1ec9",
+        "party": "Green Party",
+        "topic": "Government finance",
+        "title": "Establish a Parliamentary Budget Office",
+        "summary": "Create a Parliamentary Budget Office to independently cost party policies.",
+        "sourceURL": "https://www.greens.org.nz/greens_fiscal_plan_builds_real_economic_resilience_to_lower_cost_of_living_and_stimulate_64_000_new_jobs",
+        "dateAnnouncedOrVerified": "2026-10-23",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official Green Party source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.greens.org.nz/greens_fiscal_plan_builds_real_economic_resilience_to_lower_cost_of_living_and_stimulate_64_000_new_jobs",
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-29be1b489dfa0f50",
+        "party": "Green Party",
+        "topic": "Health",
+        "title": "Long-term health workforce plan",
+        "summary": "Fund a long-term plan to train, recruit and retain doctors, specialists, nurses, allied-health workers and support staff.",
+        "sourceURL": "https://www.greens.org.nz/greens_to_deliver_more_staff_shorter_wait_times_and_a_healthier_country_with_significant_health_investment",
+        "dateAnnouncedOrVerified": "2026-10-23",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official Green Party source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.greens.org.nz/greens_to_deliver_more_staff_shorter_wait_times_and_a_healthier_country_with_significant_health_investment",
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-b8552e395dcce4b3",
+        "party": "Green Party",
+        "topic": "Health",
+        "title": "Strengthen primary, preventive and community care",
+        "summary": "Increase investment in primary, preventive and community healthcare to reduce pressure on hospitals.",
+        "sourceURL": "https://www.greens.org.nz/greens_to_deliver_more_staff_shorter_wait_times_and_a_healthier_country_with_significant_health_investment",
+        "dateAnnouncedOrVerified": "2026-10-23",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official Green Party source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.greens.org.nz/greens_to_deliver_more_staff_shorter_wait_times_and_a_healthier_country_with_significant_health_investment",
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-472386c01d481a2f",
+        "party": "ACT",
+        "topic": "Hospitality",
+        "title": "Implement hospitality regulation reforms",
+        "summary": "Pass the Sale and Supply of Alcohol (Improving Alcohol Regulation) Amendment Bill and implement the Hospitality Review recommendations.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-e2dfcda58744f14e",
+        "party": "ACT",
+        "topic": "Workplace safety",
+        "title": "Industry safety codes as safe harbours",
+        "summary": "Approve industry health-and-safety codes as safe harbours under the new health-and-safety law.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-7bd4a651bd82c310",
+        "party": "ACT",
+        "topic": "Business tax",
+        "title": "Software and digital-investment deductions",
+        "summary": "Provide clearer tax deductions for software and digital investment.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-2f10866aacccc699",
+        "party": "ACT",
+        "topic": "Digital economy",
+        "title": "Rules and trials for digital financial assets",
+        "summary": "Create clear rules for stablecoins and tokenised assets, supervised trials and a 12-month bright-line for qualifying personal investments.",
+        "sourceURL": "https://www.act.org.nz/news/how-act-will-unlock-the-digital-economy",
+        "dateAnnouncedOrVerified": "2026-10-24",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/news/how-act-will-unlock-the-digital-economy",
+      "verifiedAt": "2026-10-24"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-bf85a94a7bd3400e",
+        "party": "ACT",
+        "topic": "Climate",
+        "title": "Restore carbon assistance for trade-exposed industries",
+        "summary": "Restore carbon-cost assistance where overseas competitors face lower emissions costs.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-3bf7bd8d1adb267c",
+        "party": "ACT",
+        "topic": "Public service",
+        "title": "Stronger ministerial powers over department heads",
+        "summary": "Give ministers stronger powers to appoint and remove departmental chief executives for poor performance.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-af2503ace07a41b2",
+        "party": "ACT",
+        "topic": "Government finance",
+        "title": "Reduce forecast debt by $12.4 billion",
+        "summary": "Reduce forecast government debt by $12.4 billion by 2031.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-0f0303541ecf5449",
+        "party": "ACT",
+        "topic": "Foreign affairs",
+        "title": "Return foreign-aid spending to 2017 levels",
+        "summary": "Reduce foreign-aid spending to 2017 levels, saving about $283 million a year, while protecting support for Ukraine and focusing aid on New Zealand interests including the Pacific.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-28e41b95965979ba",
+        "party": "ACT",
+        "topic": "Health",
+        "title": "Additional $400m for general practice",
+        "summary": "Invest an additional $400 million in general practice over four years.",
+        "sourceURL": "https://www.act.org.nz/news/the-future-of-health",
+        "dateAnnouncedOrVerified": "2026-10-23",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/news/the-future-of-health",
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-0671520f48bcfa74",
+        "party": "ACT",
+        "topic": "Health workforce",
+        "title": "Streamline overseas-doctor registration",
+        "summary": "Remove unnecessary registration barriers so qualified overseas doctors can practise sooner.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-f99a27b33d72f752",
+        "party": "ACT",
+        "topic": "Health",
+        "title": "Retain and strengthen health targets",
+        "summary": "Keep the Government health targets and drive further improvements, particularly in emergency-department waiting times.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-0c1fccad62608ec0",
+        "party": "ACT",
+        "topic": "Health",
+        "title": "Pharmacy skin-lesion triage",
+        "summary": "Allow trained pharmacists to image suspicious skin lesions, use approved risk-assessment technology and refer concerning cases for diagnosis.",
+        "sourceURL": "https://www.act.org.nz/news/the-future-of-health",
+        "dateAnnouncedOrVerified": "2026-10-23",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/news/the-future-of-health",
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-3a909dec2f651cea",
+        "party": "ACT",
+        "topic": "Health",
+        "title": "Reduce pharmacy opening and licensing barriers",
+        "summary": "Remove unnecessary restrictions on opening pharmacies and extend pharmacy licence-renewal periods.",
+        "sourceURL": "https://www.act.org.nz/news/the-future-of-health",
+        "dateAnnouncedOrVerified": "2026-10-23",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/news/the-future-of-health",
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-cda1b3a24efb9938",
+        "party": "ACT",
+        "topic": "Public safety",
+        "title": "Relocatable anti-social noise cameras",
+        "summary": "Deploy relocatable noise cameras in persistent problem areas to support enforcement against anti-social vehicle noise.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-2c00c70d9d4ba266",
+        "party": "ACT",
+        "topic": "Online safety",
+        "title": "Criminalise non-consensual deepfake pornography",
+        "summary": "Create an offence for non-consensual deepfake pornography.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-a85e6165237c0543",
+        "party": "ACT",
+        "topic": "Sentencing",
+        "title": "End good-character discounts for child-sex offending",
+        "summary": "Prevent good character from reducing sentences for people convicted of child-sex offences.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-6597bf115d782955",
+        "party": "ACT",
+        "topic": "Constitution",
+        "title": "Prevent courts creating unlegislated Treaty duties",
+        "summary": "Stop courts creating Treaty duties that Parliament has not legislated and require new laws to state Treaty obligations clearly.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-38f5f53d3ecf249f",
+        "party": "ACT",
+        "topic": "Courts",
+        "title": "Limit tikanga in court decisions",
+        "summary": "Allow tikanga to be used in court decisions only where Parliament has expressly authorised it.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-649a1383b94ca7c9",
+        "party": "ACT",
+        "topic": "Public service",
+        "title": "Keep public-service spiritual practices voluntary",
+        "summary": "Make spiritual practices voluntary and end the use of public-service time and funding for them.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-a260d6cbaeaace4f",
+        "party": "ACT",
+        "topic": "Constitution",
+        "title": "Four-year parliamentary-term referendum in 2029",
+        "summary": "Complete four-year-term legislation so voters can decide the issue at a referendum in 2029.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-1208bc380a6728b7",
+        "party": "ACT",
+        "topic": "Media",
+        "title": "Abolish the Broadcasting Standards Authority",
+        "summary": "Disestablish the Broadcasting Standards Authority rather than extend broadcasting rules to podcasts and online media.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-3627b0350d033053",
+        "party": "ACT",
+        "topic": "Education",
+        "title": "10,000 charter-school enrolments by 2029",
+        "summary": "Reach 10,000 student enrolments in charter schools by the end of 2029.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-f25319db6dcadf0a",
+        "party": "ACT",
+        "topic": "Vocational education",
+        "title": "School trade subjects and Industry Awards",
+        "summary": "Remove funding caps from approved school trade subjects and introduce Industry Awards alongside University Entrance.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-4b9f106f696bfa73",
+        "party": "ACT",
+        "topic": "School discipline",
+        "title": "Mandatory action after assaults at school",
+        "summary": "Require removal and a stand-down or suspension after a school assault, with Police referral where warranted.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-f1a2888814424642",
+        "party": "ACT",
+        "topic": "Education",
+        "title": "$500 investment account for Year 11 students",
+        "summary": "Give every Year 11 student a controlled investment account seeded with $500, progressing from term deposits to managed funds and shares as financial understanding develops.",
+        "sourceURL": "https://www.act.org.nz/news/act-will-give-students-a-stake-in-their-financial-education",
+        "dateAnnouncedOrVerified": "2026-10-24",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/news/act-will-give-students-a-stake-in-their-financial-education",
+      "verifiedAt": "2026-10-24"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-70f6f27f9ee4caa9",
+        "party": "ACT",
+        "topic": "Education",
+        "title": "New co-educational high school at Epsom campus",
+        "summary": "Secure the University of Auckland Epsom campus for a new co-educational high school while protecting existing school zones.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-184653745960fe90",
+        "party": "ACT",
+        "topic": "Education",
+        "title": "Complete replacement of NCEA",
+        "summary": "Complete the replacement of NCEA with clearer, more rigorous subject-based qualifications.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-e6404157595d6088",
+        "party": "ACT",
+        "topic": "Early childhood education",
+        "title": "Complete ECE licensing and compliance reforms",
+        "summary": "Complete reforms to reduce unnecessary early-childhood licensing and compliance costs.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-732bee70df8c17c9",
+        "party": "ACT",
+        "topic": "Education",
+        "title": "Independent-school subsidy parity",
+        "summary": "Keep independent-school subsidy increases aligned with state-school operational-funding increases.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-60d950a435fed79c",
+        "party": "ACT",
+        "topic": "Education",
+        "title": "Retain Agricultural and Horticultural Science in Year 11",
+        "summary": "Keep Agricultural and Horticultural Science as a standalone Year 11 subject.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-ffd64dc336b5c551",
+        "party": "ACT",
+        "topic": "Agriculture",
+        "title": "National standards for routine farm work",
+        "summary": "Use national standards to reduce one-off consenting for routine farm work.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-b9973b72c294db41",
+        "party": "ACT",
+        "topic": "Freshwater",
+        "title": "National method for freshwater limits",
+        "summary": "Create a national method for setting freshwater limits using measurable environmental outcomes.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-71cd5be5c04aa5b6",
+        "party": "ACT",
+        "topic": "Resource management",
+        "title": "Remove spiritual tests from consenting",
+        "summary": "Remove spiritual tests and compulsory religious observances from consenting processes.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-483d5d4a3e90637e",
+        "party": "ACT",
+        "topic": "Housing",
+        "title": "Reward housing growth and enable private infrastructure finance",
+        "summary": "Reward councils for housing growth and enable private infrastructure financing for growing communities.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-4c5c9c188d976607",
+        "party": "ACT",
+        "topic": "Transport",
+        "title": "Publish the lowest-cost safe transport option",
+        "summary": "Require transport projects to publish the lowest-cost safe option alongside the preferred design.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-240877bec58aae3e",
+        "party": "ACT",
+        "topic": "Transport",
+        "title": "Traffic thresholds for route capacity",
+        "summary": "Set traffic thresholds for route protection, additional capacity planning and construction starts.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-670f89d33d78abf4",
+        "party": "ACT",
+        "topic": "Transport",
+        "title": "Protect transport maintenance funding",
+        "summary": "Prioritise potholes, drainage and bridges by protecting maintenance funding and excluding non-functional art and decorative extras.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-7142aea98eb9b335",
+        "party": "ACT",
+        "topic": "Procurement",
+        "title": "Infrastructure contracts based on value and capability",
+        "summary": "Require infrastructure contracts to be awarded on value and capability rather than ethnicity.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-8bdb3e27156b472f",
+        "party": "ACT",
+        "topic": "Immigration",
+        "title": "Citizenship test",
+        "summary": "Introduce a citizenship test covering New Zealand rights, freedoms and responsibilities.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-a7b720ee42e9482f",
+        "party": "ACT",
+        "topic": "Immigration",
+        "title": "Dedicated overstayer enforcement unit",
+        "summary": "Create a dedicated overstayer enforcement unit, strengthen work-right checks and penalise employers who facilitate overstaying.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-b2e5b980cae3c7af",
+        "party": "ACT",
+        "topic": "Immigration",
+        "title": "Annual evidence for work-visa skill categories",
+        "summary": "Require annual evidence of demand for Accredited Employer Work Visa skill categories.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-42cb00a66fe3c692",
+        "party": "ACT",
+        "topic": "Immigration",
+        "title": "Broader basic-English requirements",
+        "summary": "Extend basic-English requirements for migrants, with a lower standard for seasonal workers.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-5495900b033fdb90",
+        "party": "ACT",
+        "topic": "Welfare",
+        "title": "Five-year benefit stand-down for new residents",
+        "summary": "Apply a five-year stand-down before new residence-class visa holders can receive income-tested benefits.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-c4e7c764967e774d",
+        "party": "ACT",
+        "topic": "Volunteering",
+        "title": "Proportionate health-and-safety duties for volunteers",
+        "summary": "Keep volunteer and community-group health-and-safety duties clear, proportionate and free of unnecessary burdens.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-act-f8fba3f21109b6f6",
+        "party": "ACT",
+        "topic": "Veterans",
+        "title": "Remembrance Army service-grave programme",
+        "summary": "Back the Remembrance Army with consistent national rules and up to $1 million to restore neglected service graves and clear the backlog.",
+        "sourceURL": "https://www.act.org.nz/manifesto",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official ACT source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.act.org.nz/manifesto",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-fcf69b2e673bb32a",
+        "party": "Labour",
+        "topic": "Housing",
+        "title": "Ban no-cause evictions",
+        "summary": "Require landlords to give a valid reason for ending a tenancy.",
+        "sourceURL": "https://www.labour.org.nz/news/release-labour-will-make-renting-fairer-and-more-secure/",
+        "dateAnnouncedOrVerified": "2026-10-28",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official Labour source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-labour-will-make-renting-fairer-and-more-secure/",
+      "verifiedAt": "2026-10-28"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-1e4115b4f14f5948",
+        "party": "Labour",
+        "topic": "Housing",
+        "title": "Longer notice for landlord move-in, sale or renovation",
+        "summary": "Require 63 days' notice when a landlord or family member will move in, and 90 days for sale, renovation or a change of use.",
+        "sourceURL": "https://www.labour.org.nz/news/release-labour-will-make-renting-fairer-and-more-secure/",
+        "dateAnnouncedOrVerified": "2026-10-28",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official Labour source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-labour-will-make-renting-fairer-and-more-secure/",
+      "verifiedAt": "2026-10-28"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-06c74678527e4e13",
+        "party": "Labour",
+        "topic": "Housing",
+        "title": "Landlord duty of care for serious hazards",
+        "summary": "Introduce a landlord duty of care to address serious hazards in rental homes.",
+        "sourceURL": "https://www.labour.org.nz/news/release-labour-will-make-renting-fairer-and-more-secure/",
+        "dateAnnouncedOrVerified": "2026-10-28",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official Labour source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-labour-will-make-renting-fairer-and-more-secure/",
+      "verifiedAt": "2026-10-28"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-24e5fa18852141a0",
+        "party": "Labour",
+        "topic": "Housing",
+        "title": "Curtains and blinds under Healthy Homes Standards",
+        "summary": "Require proper curtains or blinds under the Healthy Homes Standards.",
+        "sourceURL": "https://www.labour.org.nz/news/release-labour-will-make-renting-fairer-and-more-secure/",
+        "dateAnnouncedOrVerified": "2026-10-28",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official Labour source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-labour-will-make-renting-fairer-and-more-secure/",
+      "verifiedAt": "2026-10-28"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-20881557a70d6c07",
+        "party": "Labour",
+        "topic": "Housing",
+        "title": "Limit insurer-required rental inspections",
+        "summary": "Stop insurers requiring routine rental inspections more often than every six months.",
+        "sourceURL": "https://www.labour.org.nz/news/release-labour-will-make-renting-fairer-and-more-secure/",
+        "dateAnnouncedOrVerified": "2026-10-28",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official Labour source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-labour-will-make-renting-fairer-and-more-secure/",
+      "verifiedAt": "2026-10-28"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-cc9c526682bb931d",
+        "party": "Labour",
+        "topic": "Housing",
+        "title": "Property-manager regulation",
+        "summary": "Set clear rules for property managers so tenants and landlords are treated fairly.",
+        "sourceURL": "https://www.labour.org.nz/news/release-labour-will-make-renting-fairer-and-more-secure/",
+        "dateAnnouncedOrVerified": "2026-10-28",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official Labour source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-labour-will-make-renting-fairer-and-more-secure/",
+      "verifiedAt": "2026-10-28"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-6d32e3e664654283",
+        "party": "Labour",
+        "topic": "Housing",
+        "title": "Stronger boarding-house oversight",
+        "summary": "Strengthen oversight of boarding houses to better protect residents.",
+        "sourceURL": "https://www.labour.org.nz/news/release-labour-will-make-renting-fairer-and-more-secure/",
+        "dateAnnouncedOrVerified": "2026-10-28",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official Labour source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-labour-will-make-renting-fairer-and-more-secure/",
+      "verifiedAt": "2026-10-28"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-e857b2b1405475ce",
+        "party": "Labour",
+        "topic": "Housing",
+        "title": "Rent-to-buy pathway for public and community housing tenants",
+        "summary": "Introduce rent-to-buy for eligible Kāinga Ora and participating community-housing tenants who are working and ready to move towards ownership.",
+        "sourceURL": "https://www.labour.org.nz/news/release-labour-to-help-more-kiwis-buy-their-first-home/",
+        "dateAnnouncedOrVerified": "2026-10-27",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official Labour source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-labour-to-help-more-kiwis-buy-their-first-home/",
+      "verifiedAt": "2026-10-27"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-8cd373fd702c9939",
+        "party": "Labour",
+        "topic": "Housing",
+        "title": "Trust accounts for rent-to-buy deposit credits",
+        "summary": "Hold rent-to-buy deposit credits safely in trust accounts.",
+        "sourceURL": "https://www.labour.org.nz/news/release-labour-to-help-more-kiwis-buy-their-first-home/",
+        "dateAnnouncedOrVerified": "2026-10-27",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official Labour source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-labour-to-help-more-kiwis-buy-their-first-home/",
+      "verifiedAt": "2026-10-27"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-8a86f6815b581f57",
+        "party": "Labour",
+        "topic": "Housing",
+        "title": "Expand First Home Loans to a $300,000 income cap",
+        "summary": "Lift the First Home Loan income cap to $300,000, retain the five-percent deposit requirement and bring more banks into the scheme.",
+        "sourceURL": "https://www.labour.org.nz/news/release-labour-to-help-more-kiwis-buy-their-first-home/",
+        "dateAnnouncedOrVerified": "2026-10-27",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official Labour source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-labour-to-help-more-kiwis-buy-their-first-home/",
+      "verifiedAt": "2026-10-27"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-a917d5064446e7fc",
+        "party": "Labour",
+        "topic": "Housing",
+        "title": "Replace each public home sold through rent-to-buy with three homes",
+        "summary": "For every public home sold through rent-to-buy, require Kāinga Ora to build three more and reinvest the proceeds in public housing.",
+        "sourceURL": "https://www.labour.org.nz/news/release-labour-to-help-more-kiwis-buy-their-first-home/",
+        "dateAnnouncedOrVerified": "2026-10-27",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official Labour source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-labour-to-help-more-kiwis-buy-their-first-home/",
+      "verifiedAt": "2026-10-27"
+    },
+    {
+      "input": {
+        "id": "nzpt-labour-c6d8ecd080bd87fa",
+        "party": "Labour",
+        "topic": "Employment",
+        "title": "Index the minimum wage to inflation",
+        "summary": "Increase the minimum wage in line with inflation to protect workers’ purchasing power.",
+        "sourceURL": "https://www.labour.org.nz/news/release-labour-s-plan-to-deliver-a-fairer-deal-for-workers/",
+        "dateAnnouncedOrVerified": "2026-10-26",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official Labour source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.labour.org.nz/news/release-labour-s-plan-to-deliver-a-fairer-deal-for-workers/",
+      "verifiedAt": "2026-10-26"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-ef67f3840883374e",
+        "party": "New Zealand First",
+        "topic": "Transport",
+        "title": "Deliver the 2027–2030 Rail Network Investment Programme",
+        "summary": "Deliver the $1.135 billion Rail Network Investment Programme backed by Budget 2026 and track-user charges.",
+        "sourceURL": "https://www.nzfirst.nz/ten_point_rail_policy",
+        "dateAnnouncedOrVerified": "2026-10-27",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official New Zealand First source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.nzfirst.nz/ten_point_rail_policy",
+      "verifiedAt": "2026-10-27"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-c496de9ac04153ae",
+        "party": "New Zealand First",
+        "topic": "Transport",
+        "title": "Build the Marsden Point Rail Link",
+        "summary": "Connect Northport to the national rail network through the Marsden Point Rail Link.",
+        "sourceURL": "https://www.nzfirst.nz/ten_point_rail_policy",
+        "dateAnnouncedOrVerified": "2026-10-27",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official New Zealand First source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.nzfirst.nz/ten_point_rail_policy",
+      "verifiedAt": "2026-10-27"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-1e2a1366c0fcd333",
+        "party": "New Zealand First",
+        "topic": "Transport",
+        "title": "Unlock capacity through the Kaimai Tunnel",
+        "summary": "Ventilate the Kaimai Tunnel and build passing loops to enable more freight trains and future passenger services.",
+        "sourceURL": "https://www.nzfirst.nz/ten_point_rail_policy",
+        "dateAnnouncedOrVerified": "2026-10-27",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official New Zealand First source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.nzfirst.nz/ten_point_rail_policy",
+      "verifiedAt": "2026-10-27"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-1b76194cf9273619",
+        "party": "New Zealand First",
+        "topic": "Transport",
+        "title": "Reform Auckland and Wellington metropolitan rail",
+        "summary": "Establish co-owned Auckland Rail and Wellington Rail companies responsible for metropolitan rail infrastructure and passenger trains.",
+        "sourceURL": "https://www.nzfirst.nz/ten_point_rail_policy",
+        "dateAnnouncedOrVerified": "2026-10-27",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official New Zealand First source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.nzfirst.nz/ten_point_rail_policy",
+      "verifiedAt": "2026-10-27"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-a9ce4c41e32ffcfa",
+        "party": "New Zealand First",
+        "topic": "Transport",
+        "title": "Make Te Huia permanent",
+        "summary": "Extend the Hamilton–Auckland passenger service beyond 2027 and add three modern train units.",
+        "sourceURL": "https://www.nzfirst.nz/ten_point_rail_policy",
+        "dateAnnouncedOrVerified": "2026-10-27",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official New Zealand First source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.nzfirst.nz/ten_point_rail_policy",
+      "verifiedAt": "2026-10-27"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-3e7320bb14fd2a1a",
+        "party": "New Zealand First",
+        "topic": "Transport",
+        "title": "Back permanent passenger rail in Christchurch",
+        "summary": "If the 12-month trial demonstrates sufficient patronage and value, establish the Christchurch passenger service permanently with government co-funding.",
+        "sourceURL": "https://www.nzfirst.nz/ten_point_rail_policy",
+        "dateAnnouncedOrVerified": "2026-10-27",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official New Zealand First source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.nzfirst.nz/ten_point_rail_policy",
+      "verifiedAt": "2026-10-27"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-7d590297038a3596",
+        "party": "New Zealand First",
+        "topic": "Transport",
+        "title": "Continue removing dangerous level crossings",
+        "summary": "Progress further Auckland level-crossing removals and upgrades and improve protection at high-risk crossings nationally.",
+        "sourceURL": "https://www.nzfirst.nz/ten_point_rail_policy",
+        "dateAnnouncedOrVerified": "2026-10-27",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official New Zealand First source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.nzfirst.nz/ten_point_rail_policy",
+      "verifiedAt": "2026-10-27"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-9ba64e12997e842b",
+        "party": "New Zealand First",
+        "topic": "Transport",
+        "title": "Deliver the new Cook Strait ferries",
+        "summary": "Deliver the road-and-rail ferries Kupe and Cook and associated port infrastructure for service in 2029.",
+        "sourceURL": "https://www.nzfirst.nz/ten_point_rail_policy",
+        "dateAnnouncedOrVerified": "2026-10-27",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official New Zealand First source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.nzfirst.nz/ten_point_rail_policy",
+      "verifiedAt": "2026-10-27"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-73ccf9412a441c43",
+        "party": "New Zealand First",
+        "topic": "Transport",
+        "title": "Plan Auckland’s third and fourth main lines and protect the Avondale–Southdown rail corridor",
+        "summary": "Begin planning Auckland’s third and fourth main lines and protect the Avondale–Southdown corridor for future passenger and freight services.",
+        "sourceURL": "https://www.nzfirst.nz/ten_point_rail_policy",
+        "dateAnnouncedOrVerified": "2026-10-27",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official New Zealand First source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.nzfirst.nz/ten_point_rail_policy",
+      "verifiedAt": "2026-10-27"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-7c55102bd8fd02ea",
+        "party": "New Zealand First",
+        "topic": "Transport",
+        "title": "Protect heritage rail",
+        "summary": "Continue discounted network access for heritage operators and provide $500,000 annually to the Rail Heritage Trust.",
+        "sourceURL": "https://www.nzfirst.nz/ten_point_rail_policy",
+        "dateAnnouncedOrVerified": "2026-10-27",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "confirmed",
+      "reason": "Confirmed against the official New Zealand First source; the wording retains the stated scope and qualifications.",
+      "officialSourceURL": "https://www.nzfirst.nz/ten_point_rail_policy",
+      "verifiedAt": "2026-10-27"
+    },
+    {
+      "input": {
+        "id": "nzpt-new-zealand-first-4fcbbb5e0323649d",
+        "party": "New Zealand First",
+        "topic": "Sentencing",
+        "title": "Life imprisonment for rape against children",
+        "summary": "Introduce life imprisonment for rape against children; the official announcement conflicts on whether parole would remain possible.",
+        "sourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+        "dateAnnouncedOrVerified": "2026-10-22",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "hold",
+      "reason": "Hold: the official announcement conflicts on whether parole would remain possible.",
+      "officialSourceURL": "https://www.nzfirst.nz/nzfirst_law_and_order_policy_announcement_tougher_sentences_degrees_of_murder_smashing_organised_crime_life_means_life",
+      "verifiedAt": "2026-10-22"
+    },
+    {
+      "input": {
+        "id": "nzpt-green-party-3529ccab95c87ed2",
+        "party": "Green Party",
+        "topic": "Health",
+        "title": "Increase public health funding",
+        "summary": "Increase public health funding; the official announcement says both $3 billion more each year and $30 billion over four years, which requires clarification before publication.",
+        "sourceURL": "https://www.greens.org.nz/greens_to_deliver_more_staff_shorter_wait_times_and_a_healthier_country_with_significant_health_investment",
+        "dateAnnouncedOrVerified": "2026-10-23",
+        "policyStatus": "confirmed2026",
+        "lifecycleStatus": "active",
+        "supersedesPolicyID": null,
+        "supersededByPolicyID": null
+      },
+      "decision": "hold",
+      "reason": "Hold: the official announcement states both $3 billion more each year and $30 billion over four years; clarification is required.",
+      "officialSourceURL": "https://www.greens.org.nz/greens_to_deliver_more_staff_shorter_wait_times_and_a_healthier_country_with_significant_health_investment",
+      "verifiedAt": "2026-10-23"
     }
   ]
 }
